@@ -1,0 +1,3784 @@
+{
+  "transactions": [
+    {
+      "id": "49b572d6-69b4-4db1-ae5b-eb49f8ecc2ac",
+      "date": "2025-09-20T03:20:10.000Z",
+      "amount": "37.16",
+      "merchant": "Moore Group",
+      "category": "Industrial"
+    },
+    {
+      "id": "44d2d33e-3d9d-4e70-8529-69ae90b9d6b7",
+      "date": "2025-07-15T13:59:56.118Z",
+      "amount": "138.95",
+      "merchant": "Windler, Carroll and Kemmer",
+      "category": "Toys"
+    },
+    {
+      "id": "a01d461f-a014-49da-903d-1ed874441185",
+      "date": "2025-03-24T11:54:00.522Z",
+      "amount": "294.58",
+      "merchant": "Keebler, Lesch and Pouros",
+      "category": "Garden"
+    },
+    {
+      "id": "122bd430-e8a6-4938-9586-6c3fc20d1e7e",
+      "date": "2024-07-13T17:51:06.682Z",
+      "amount": "941.83",
+      "merchant": "Schamberger, Reichel and Brekke",
+      "category": "Kids"
+    },
+    {
+      "id": "a0418a96-db04-4828-aaed-ef4c794c6095",
+      "date": "2025-08-07T06:50:11.587Z",
+      "amount": "87.89",
+      "merchant": "Brekke - Rempel",
+      "category": "Grocery"
+    },
+    {
+      "id": "b8d9d51c-3b72-486b-8032-43b88de0ad7e",
+      "date": "2024-09-29T15:56:16.152Z",
+      "amount": "619.46",
+      "merchant": "Klein Group",
+      "category": "Books"
+    },
+    {
+      "id": "dc674458-9f2a-4a55-8ed6-97ac23e1df18",
+      "date": "2025-03-15T10:47:19.245Z",
+      "amount": "323.43",
+      "merchant": "Konopelski, Mitchell and Kihn",
+      "category": "Health"
+    },
+    {
+      "id": "da1a8274-a720-4d4a-bf49-bf12f843f97a",
+      "date": "2025-03-29T01:57:58.382Z",
+      "amount": "446.85",
+      "merchant": "Trantow LLC",
+      "category": "Industrial"
+    },
+    {
+      "id": "af76ba0d-cd9a-44c8-8c24-7ac63638a100",
+      "date": "2024-06-27T20:36:24.133Z",
+      "amount": "599.69",
+      "merchant": "Bartoletti - Bergstrom",
+      "category": "Health"
+    },
+    {
+      "id": "e41b083c-aecd-4177-9c9a-e1bf20e36a07",
+      "date": "2025-01-30T10:08:06.697Z",
+      "amount": "396.44",
+      "merchant": "Hansen Inc",
+      "category": "Outdoors"
+    },
+    {
+      "id": "bc6ca9d5-ca4c-4807-9bf0-4fadd95e9025",
+      "date": "2025-03-27T04:13:47.302Z",
+      "amount": "163.01",
+      "merchant": "Walter and Sons",
+      "category": "Grocery"
+    },
+    {
+      "id": "ecaf69d8-91f2-41d5-9704-1cbfc9df9649",
+      "date": "2025-09-14T20:11:32.963Z",
+      "amount": "141.76",
+      "merchant": "Terry, Padberg and Reilly",
+      "category": "Baby"
+    },
+    {
+      "id": "70b433de-962d-43f8-8606-00886c6b8088",
+      "date": "2025-02-13T06:40:34.589Z",
+      "amount": "57.30",
+      "merchant": "Rempel Group",
+      "category": "Clothing"
+    },
+    {
+      "id": "c9f10bac-12fa-4165-8d94-4a6db40267db",
+      "date": "2024-09-30T13:08:15.730Z",
+      "amount": "53.87",
+      "merchant": "Friesen - Wolf",
+      "category": "Jewelry"
+    },
+    {
+      "id": "351f43e4-ffd5-4315-a4ed-4adfcc2667b1",
+      "date": "2025-09-18T07:47:19.945Z",
+      "amount": "364.40",
+      "merchant": "Stoltenberg - Johnson",
+      "category": "Garden"
+    },
+    {
+      "id": "4e8bb4cd-a231-4bd7-98ab-bc50ad4f2ce8",
+      "date": "2024-12-03T23:16:44.829Z",
+      "amount": "335.49",
+      "merchant": "Nicolas - Collins",
+      "category": "Music"
+    },
+    {
+      "id": "780fe7f1-b8c8-4b58-815e-659cfce63391",
+      "date": "2025-03-03T22:14:31.057Z",
+      "amount": "733.04",
+      "merchant": "Labadie, Wisoky and Senger",
+      "category": "Games"
+    },
+    {
+      "id": "149a3763-8f44-42fa-8475-0066dec17ee8",
+      "date": "2025-05-28T02:24:14.334Z",
+      "amount": "614.19",
+      "merchant": "Stroman - Tillman",
+      "category": "Automotive"
+    },
+    {
+      "id": "b92cdd4c-b5a4-41e3-a5d5-1c509007c897",
+      "date": "2024-08-29T14:54:09.620Z",
+      "amount": "97.37",
+      "merchant": "Sanford and Sons",
+      "category": "Grocery"
+    },
+    {
+      "id": "5ac200d6-5790-493b-90cd-a55c810c5384",
+      "date": "2024-08-21T06:46:52.031Z",
+      "amount": "696.83",
+      "merchant": "Trantow, Mann and Walter",
+      "category": "Kids"
+    },
+    {
+      "id": "0499bace-35f6-49e4-8f45-2cc3b32c8952",
+      "date": "2024-04-02T13:23:49.750Z",
+      "amount": "689.06",
+      "merchant": "Morissette - Cremin",
+      "category": "Garden"
+    },
+    {
+      "id": "5aec8a5f-16cc-43ac-b904-d7dd863919bb",
+      "date": "2025-07-12T20:25:38.567Z",
+      "amount": "462.18",
+      "merchant": "Lindgren, Jerde and Wyman",
+      "category": "Games"
+    },
+    {
+      "id": "18caf3df-ed3b-49ff-b151-9dac7bb93a53",
+      "date": "2024-12-31T03:27:28.054Z",
+      "amount": "622.20",
+      "merchant": "VonRueden, Dickinson and McCullough",
+      "category": "Grocery"
+    },
+    {
+      "id": "a2926880-3e6b-4c42-98b5-1afc68739ac6",
+      "date": "2025-02-04T16:50:55.618Z",
+      "amount": "362.01",
+      "merchant": "Wolf, Welch and Streich",
+      "category": "Computers"
+    },
+    {
+      "id": "e7182dfb-8036-456a-b7bd-9461006bbcec",
+      "date": "2024-09-09T05:25:48.146Z",
+      "amount": "720.58",
+      "merchant": "Zemlak, Fisher and Rohan",
+      "category": "Baby"
+    },
+    {
+      "id": "d042e293-d6aa-4e9d-9a87-0af40474dd6c",
+      "date": "2025-05-15T00:19:44.753Z",
+      "amount": "870.07",
+      "merchant": "Metz, Kautzer and Block",
+      "category": "Games"
+    },
+    {
+      "id": "385b0db4-5ad1-4e37-9f3b-cc4f09536921",
+      "date": "2025-02-16T17:50:32.304Z",
+      "amount": "142.75",
+      "merchant": "Rodriguez - Hoppe",
+      "category": "Music"
+    },
+    {
+      "id": "b3c0a9d8-ceb0-4039-a04d-8b29fd39a168",
+      "date": "2024-05-31T23:07:47.905Z",
+      "amount": "796.92",
+      "merchant": "Schiller - Powlowski",
+      "category": "Sports"
+    },
+    {
+      "id": "13c4e1d6-6ceb-48c9-9bc1-dffb76d69a89",
+      "date": "2024-11-21T22:17:25.245Z",
+      "amount": "213.18",
+      "merchant": "Ortiz, Considine and Dibbert",
+      "category": "Garden"
+    },
+    {
+      "id": "9a17d851-7328-4e17-8111-8cf189f4126d",
+      "date": "2025-01-28T23:52:46.869Z",
+      "amount": "453.25",
+      "merchant": "Schimmel and Sons",
+      "category": "Clothing"
+    },
+    {
+      "id": "87eaf006-e3f4-41f0-b258-ec8403201334",
+      "date": "2024-05-16T12:58:10.237Z",
+      "amount": "761.59",
+      "merchant": "Feest, Marquardt and Stracke",
+      "category": "Tools"
+    },
+    {
+      "id": "967208c3-5651-4ae6-b044-165ef85a8c80",
+      "date": "2024-11-16T14:24:52.148Z",
+      "amount": "292.39",
+      "merchant": "Fadel, Bartoletti and Kozey",
+      "category": "Computers"
+    },
+    {
+      "id": "6849b50f-bbc9-4909-8cc7-97d8d0fe932a",
+      "date": "2025-04-22T02:33:56.553Z",
+      "amount": "465.92",
+      "merchant": "Casper Group",
+      "category": "Tools"
+    },
+    {
+      "id": "91ca6a46-8337-4033-8684-cc4b46eb2902",
+      "date": "2024-03-26T03:15:02.457Z",
+      "amount": "628.72",
+      "merchant": "Lehner - Kuhn",
+      "category": "Beauty"
+    },
+    {
+      "id": "36cfc442-367d-47db-8122-c5f173d65cc1",
+      "date": "2024-07-03T21:00:29.877Z",
+      "amount": "920.82",
+      "merchant": "Schaefer, Stokes and Gleichner",
+      "category": "Sports"
+    },
+    {
+      "id": "e60c7181-707f-4eb7-89fc-c754f023e90e",
+      "date": "2025-06-08T01:20:23.655Z",
+      "amount": "839.91",
+      "merchant": "Lemke and Sons",
+      "category": "Electronics"
+    },
+    {
+      "id": "ab7468ed-f7d4-432b-84d6-cf1e97a8aaf4",
+      "date": "2024-06-12T15:08:30.989Z",
+      "amount": "420.54",
+      "merchant": "Gutkowski - Luettgen",
+      "category": "Industrial"
+    },
+    {
+      "id": "7de3c1b5-118e-43e4-aad1-5b4fa9f778b4",
+      "date": "2024-04-06T20:50:48.011Z",
+      "amount": "91.65",
+      "merchant": "Howe LLC",
+      "category": "Home"
+    },
+    {
+      "id": "35b4aae8-6a15-457f-9121-58d5a8cdb061",
+      "date": "2025-01-03T13:35:38.239Z",
+      "amount": "353.31",
+      "merchant": "Pfeffer and Sons",
+      "category": "Automotive"
+    },
+    {
+      "id": "f5d7d39e-2b41-4dbe-b1f3-6d2fa9849dab",
+      "date": "2024-08-14T15:28:38.075Z",
+      "amount": "813.64",
+      "merchant": "Kshlerin, Wisoky and Jast",
+      "category": "Electronics"
+    },
+    {
+      "id": "4f29378d-d921-4830-8ca2-8fb78aa8fd59",
+      "date": "2025-08-14T11:47:30.667Z",
+      "amount": "730.29",
+      "merchant": "Balistreri Group",
+      "category": "Jewelry"
+    },
+    {
+      "id": "18077e91-0577-4b17-9d13-2818d2ef19ee",
+      "date": "2024-06-05T20:51:34.125Z",
+      "amount": "340.50",
+      "merchant": "Ratke Group",
+      "category": "Grocery"
+    },
+    {
+      "id": "0e0ed9c0-0847-43fa-a02b-1739be16d54a",
+      "date": "2024-11-09T20:30:12.179Z",
+      "amount": "177.21",
+      "merchant": "Pacocha, Fisher and Stark",
+      "category": "Kids"
+    },
+    {
+      "id": "6d37a62c-b837-4edc-813a-e89a1622565c",
+      "date": "2024-05-13T23:40:04.539Z",
+      "amount": "877.81",
+      "merchant": "Klocko, Johns and Marks",
+      "category": "Home"
+    },
+    {
+      "id": "5c7dad93-54aa-4e1a-b486-23debe1cf4da",
+      "date": "2024-10-07T07:59:09.740Z",
+      "amount": "316.58",
+      "merchant": "Cruickshank - Bogisich",
+      "category": "Movies"
+    },
+    {
+      "id": "b84f64e0-9902-483e-ab82-088c881b1de3",
+      "date": "2025-05-23T12:22:39.123Z",
+      "amount": "795.45",
+      "merchant": "Homenick, Ullrich and Collins",
+      "category": "Electronics"
+    },
+    {
+      "id": "a5fe6463-6fca-4a56-8038-a425e0c673bf",
+      "date": "2024-12-01T15:54:03.774Z",
+      "amount": "434.87",
+      "merchant": "Kautzer, Price and Skiles",
+      "category": "Toys"
+    },
+    {
+      "id": "43ab3561-bbaa-4504-a2b9-570a3c1345ed",
+      "date": "2025-04-29T04:36:33.543Z",
+      "amount": "130.16",
+      "merchant": "Emard, Zulauf and O'Keefe",
+      "category": "Baby"
+    },
+    {
+      "id": "1b31beeb-e645-4123-bcc4-29ef8cfcc7d3",
+      "date": "2025-08-24T16:35:03.811Z",
+      "amount": "133.47",
+      "merchant": "Vandervort, Osinski and Kessler",
+      "category": "Toys"
+    },
+    {
+      "id": "fd223489-31e0-48fa-a022-7f7ed1901f19",
+      "date": "2025-03-22T01:54:22.123Z",
+      "amount": "749.37",
+      "merchant": "Crooks - Erdman",
+      "category": "Clothing"
+    },
+    {
+      "id": "db9b3d9e-a1f4-4305-8448-906b1211724f",
+      "date": "2024-10-10T08:20:40.006Z",
+      "amount": "653.16",
+      "merchant": "Lakin, Friesen and Sanford",
+      "category": "Music"
+    },
+    {
+      "id": "4df80798-3ef3-4c31-b5e7-15ca92ebecd4",
+      "date": "2025-05-04T22:01:40.086Z",
+      "amount": "191.67",
+      "merchant": "Hauck, McKenzie and Robel",
+      "category": "Automotive"
+    },
+    {
+      "id": "11ec0d07-dd04-40dd-8e06-42874d4b301b",
+      "date": "2024-11-12T16:06:13.071Z",
+      "amount": "911.97",
+      "merchant": "O'Kon LLC",
+      "category": "Electronics"
+    },
+    {
+      "id": "35d98d69-b5ec-4b31-ba45-e82824cc5108",
+      "date": "2025-03-15T20:27:52.240Z",
+      "amount": "489.65",
+      "merchant": "Gutkowski, Osinski and Kulas",
+      "category": "Health"
+    },
+    {
+      "id": "c01a6a08-bc5e-4acd-a893-9074926718f5",
+      "date": "2024-12-30T13:14:59.202Z",
+      "amount": "510.50",
+      "merchant": "Effertz, Wiegand and Willms",
+      "category": "Baby"
+    },
+    {
+      "id": "826c04ef-8215-4236-a5ed-836424624725",
+      "date": "2025-04-11T20:30:02.893Z",
+      "amount": "548.61",
+      "merchant": "Reichert Inc",
+      "category": "Grocery"
+    },
+    {
+      "id": "71a3919d-2f31-4a9c-b7a6-2872374baeb4",
+      "date": "2025-08-27T03:44:59.467Z",
+      "amount": "39.74",
+      "merchant": "Kub, Kreiger and Howell",
+      "category": "Kids"
+    },
+    {
+      "id": "a70454d5-f56c-4f73-972d-01a9da748b07",
+      "date": "2024-09-02T08:21:21.833Z",
+      "amount": "183.70",
+      "merchant": "Tillman - Beatty",
+      "category": "Garden"
+    },
+    {
+      "id": "a7d1bcdb-7aa4-4a00-b456-2d857f892016",
+      "date": "2024-08-13T02:55:35.258Z",
+      "amount": "409.40",
+      "merchant": "Zulauf - Ortiz",
+      "category": "Games"
+    },
+    {
+      "id": "4f3c53eb-754a-466c-bbca-7ca3a5042716",
+      "date": "2024-04-29T23:58:53.014Z",
+      "amount": "996.88",
+      "merchant": "Nikolaus LLC",
+      "category": "Kids"
+    },
+    {
+      "id": "fb84bfc5-5cb8-4ccc-9c65-5ba0111255cb",
+      "date": "2024-10-15T22:25:06.027Z",
+      "amount": "818.37",
+      "merchant": "Wyman - Fay",
+      "category": "Sports"
+    },
+    {
+      "id": "437d7787-97f2-4935-9297-c4e3ad4939fb",
+      "date": "2025-03-31T06:47:53.330Z",
+      "amount": "835.78",
+      "merchant": "Maggio LLC",
+      "category": "Games"
+    },
+    {
+      "id": "388d0178-64ff-428a-8644-3310a814cae6",
+      "date": "2024-04-28T12:26:23.208Z",
+      "amount": "747.61",
+      "merchant": "Bednar Inc",
+      "category": "Jewelry"
+    },
+    {
+      "id": "aa2bd4f6-0c6e-4b67-ac75-7c0d0cb3fa1d",
+      "date": "2024-10-10T22:11:08.319Z",
+      "amount": "961.73",
+      "merchant": "Rolfson Inc",
+      "category": "Music"
+    },
+    {
+      "id": "4a846a9a-988e-4191-9ec2-8ca702801ee4",
+      "date": "2025-09-01T03:17:20.263Z",
+      "amount": "927.43",
+      "merchant": "Frami, Thiel and Schimmel",
+      "category": "Tools"
+    },
+    {
+      "id": "282714e3-89ea-4902-933f-d2455711d6b3",
+      "date": "2025-01-20T06:10:59.041Z",
+      "amount": "121.59",
+      "merchant": "Haag, Green and Gleichner",
+      "category": "Toys"
+    },
+    {
+      "id": "710876ed-4287-4ba1-aeed-137e2d4e47f7",
+      "date": "2024-05-20T08:43:42.596Z",
+      "amount": "962.17",
+      "merchant": "MacGyver, Schowalter and Emard",
+      "category": "Grocery"
+    },
+    {
+      "id": "7cefc4ad-d384-461c-8206-00751e5cfae6",
+      "date": "2025-09-19T12:39:02.333Z",
+      "amount": "381.88",
+      "merchant": "Cormier, Langosh and Schiller",
+      "category": "Jewelry"
+    },
+    {
+      "id": "ed6fb441-d993-48b4-89cb-04b9847e3f92",
+      "date": "2025-07-11T11:27:48.701Z",
+      "amount": "713.67",
+      "merchant": "Gorczany, Rice and Greenfelder",
+      "category": "Tools"
+    },
+    {
+      "id": "6eb7edc9-2c0d-4c4b-a62b-8eb9d6f990f5",
+      "date": "2024-09-29T14:48:01.457Z",
+      "amount": "837.85",
+      "merchant": "Stamm Group",
+      "category": "Toys"
+    },
+    {
+      "id": "b964a05f-ec19-4336-bc0c-0405c0d5a0c5",
+      "date": "2025-03-13T14:08:00.762Z",
+      "amount": "799.88",
+      "merchant": "Gusikowski - Kuhic",
+      "category": "Electronics"
+    },
+    {
+      "id": "c1bf44e1-2d92-4e79-b479-6555efc1bab6",
+      "date": "2024-10-04T08:59:03.494Z",
+      "amount": "292.62",
+      "merchant": "Steuber Inc",
+      "category": "Sports"
+    },
+    {
+      "id": "f3af3373-7a06-4cfb-8316-27c627eb5674",
+      "date": "2024-05-14T11:02:44.474Z",
+      "amount": "557.95",
+      "merchant": "Barton, Satterfield and Abbott",
+      "category": "Games"
+    },
+    {
+      "id": "0864f03c-5370-4e6d-a7d9-f8107f0a0c37",
+      "date": "2025-05-09T09:48:37.305Z",
+      "amount": "730.57",
+      "merchant": "Grady, Sawayn and Bogan",
+      "category": "Toys"
+    },
+    {
+      "id": "9759643b-cfd2-49c9-9db9-b95158ec1897",
+      "date": "2024-12-08T09:06:46.591Z",
+      "amount": "865.42",
+      "merchant": "Stoltenberg - Lindgren",
+      "category": "Health"
+    },
+    {
+      "id": "69e89aa4-4690-4f09-a210-8d4144f9c78f",
+      "date": "2024-04-10T07:44:07.762Z",
+      "amount": "710.10",
+      "merchant": "Parker and Sons",
+      "category": "Automotive"
+    },
+    {
+      "id": "73193dc5-9c19-4ad4-a707-e27abccbf9b1",
+      "date": "2024-06-10T18:21:50.875Z",
+      "amount": "127.69",
+      "merchant": "Wintheiser - Kohler",
+      "category": "Tools"
+    },
+    {
+      "id": "ab82843e-effd-4096-aabe-3fc3dc2967b3",
+      "date": "2024-09-26T18:09:22.480Z",
+      "amount": "809.76",
+      "merchant": "Reichel - O'Reilly",
+      "category": "Kids"
+    },
+    {
+      "id": "ee8c1525-f7ec-478d-a742-960b2035c274",
+      "date": "2024-10-27T03:52:20.919Z",
+      "amount": "229.86",
+      "merchant": "Lang Group",
+      "category": "Industrial"
+    },
+    {
+      "id": "2b007846-5901-4d7f-9495-fd52826fe502",
+      "date": "2024-06-13T02:45:50.336Z",
+      "amount": "320.40",
+      "merchant": "Gleichner LLC",
+      "category": "Books"
+    },
+    {
+      "id": "1321b394-5295-4015-9751-b95a42f049e3",
+      "date": "2024-09-02T00:45:20.365Z",
+      "amount": "345.80",
+      "merchant": "Murphy - Stroman",
+      "category": "Shoes"
+    },
+    {
+      "id": "cbd9aa66-a835-4570-96cb-57584315ebc6",
+      "date": "2025-04-28T15:28:27.565Z",
+      "amount": "467.50",
+      "merchant": "Wunsch - Pacocha",
+      "category": "Toys"
+    },
+    {
+      "id": "20826d45-6a60-4812-8656-b3c796c1019e",
+      "date": "2024-10-27T11:03:37.440Z",
+      "amount": "572.41",
+      "merchant": "Nitzsche, Erdman and Kautzer",
+      "category": "Automotive"
+    },
+    {
+      "id": "a6a7f95c-597d-483c-81ba-ddf03eb711b7",
+      "date": "2025-05-03T06:53:08.704Z",
+      "amount": "338.03",
+      "merchant": "Nader - McCullough",
+      "category": "Automotive"
+    },
+    {
+      "id": "9c6d1c69-81f7-4934-bf1e-3dd1de6fe7ab",
+      "date": "2024-10-17T21:12:05.015Z",
+      "amount": "858.53",
+      "merchant": "Hilll, Cronin and Stiedemann",
+      "category": "Home"
+    },
+    {
+      "id": "95e0c23b-1771-48a7-9345-0c27c7b08836",
+      "date": "2024-06-14T13:29:48.641Z",
+      "amount": "212.61",
+      "merchant": "Rosenbaum - Huels",
+      "category": "Games"
+    },
+    {
+      "id": "c0cf29a2-9851-4582-a19d-0fc1bc8ddcf5",
+      "date": "2024-04-10T08:09:21.584Z",
+      "amount": "860.40",
+      "merchant": "Emmerich Inc",
+      "category": "Outdoors"
+    },
+    {
+      "id": "10945779-2cd7-4824-9c26-0cee42d5dd7a",
+      "date": "2024-05-02T15:27:07.447Z",
+      "amount": "452.31",
+      "merchant": "Little - Bechtelar",
+      "category": "Home"
+    },
+    {
+      "id": "e57b6dd3-e7d9-4f03-ac90-c6b8f034804f",
+      "date": "2024-04-23T19:25:29.767Z",
+      "amount": "570.03",
+      "merchant": "Senger Inc",
+      "category": "Grocery"
+    },
+    {
+      "id": "295060b0-246d-435d-95c7-6e198ab5a6c1",
+      "date": "2025-05-26T01:00:33.645Z",
+      "amount": "540.93",
+      "merchant": "Thompson, Langworth and Reynolds",
+      "category": "Industrial"
+    },
+    {
+      "id": "4c055b9a-2604-4c2b-9657-9c9b0f6afd53",
+      "date": "2024-10-22T13:06:26.737Z",
+      "amount": "579.80",
+      "merchant": "Moore and Sons",
+      "category": "Kids"
+    },
+    {
+      "id": "0aab9a0c-ad8f-40fb-84af-cae9a057081d",
+      "date": "2025-08-26T20:18:48.298Z",
+      "amount": "290.54",
+      "merchant": "Schneider - Mante",
+      "category": "Electronics"
+    },
+    {
+      "id": "682915bc-9001-4e0c-b09c-c0d529f6ca7d",
+      "date": "2025-07-23T03:06:14.618Z",
+      "amount": "74.79",
+      "merchant": "Green, McLaughlin and Schmeler",
+      "category": "Kids"
+    },
+    {
+      "id": "a93ead25-353e-443a-b6bc-be7eaf26e649",
+      "date": "2024-04-03T12:40:08.659Z",
+      "amount": "843.72",
+      "merchant": "Hintz, Bauch and Beier",
+      "category": "Sports"
+    },
+    {
+      "id": "d34da866-9112-4652-ae6b-5cdc22786255",
+      "date": "2025-08-07T23:28:05.896Z",
+      "amount": "161.28",
+      "merchant": "Morar - Hermann",
+      "category": "Sports"
+    },
+    {
+      "id": "e3c9cc40-0ace-493a-8ef9-5a897bf90ea1",
+      "date": "2024-10-20T23:30:57.159Z",
+      "amount": "64.06",
+      "merchant": "Greenholt - Howe",
+      "category": "Books"
+    },
+    {
+      "id": "5b8356b7-6e1d-48e8-8eb3-42c5414b3c6f",
+      "date": "2025-06-25T13:56:27.142Z",
+      "amount": "609.24",
+      "merchant": "Jerde - Hand",
+      "category": "Baby"
+    },
+    {
+      "id": "91422ce8-79f8-4a17-8dd5-a27919988634",
+      "date": "2024-04-11T03:53:13.525Z",
+      "amount": "20.74",
+      "merchant": "Spencer - Metz",
+      "category": "Computers"
+    },
+    {
+      "id": "4177c229-bc66-4996-beec-06b26516d177",
+      "date": "2025-03-21T13:59:45.717Z",
+      "amount": "880.96",
+      "merchant": "Krajcik, Hirthe and Abernathy",
+      "category": "Sports"
+    },
+    {
+      "id": "7296c553-73e4-4a43-87a8-a1e3c9578e79",
+      "date": "2025-07-06T19:58:57.643Z",
+      "amount": "189.72",
+      "merchant": "Rau - Gutkowski",
+      "category": "Outdoors"
+    },
+    {
+      "id": "1a898342-a2d5-4bd2-8b50-48bafbbc6fb1",
+      "date": "2024-05-07T11:37:45.590Z",
+      "amount": "556.71",
+      "merchant": "Robel, DuBuque and Koepp",
+      "category": "Shoes"
+    },
+    {
+      "id": "838b2f2d-0d88-4bea-baf0-3d4a6fdca8db",
+      "date": "2024-08-12T17:44:22.618Z",
+      "amount": "811.04",
+      "merchant": "Kuvalis, Bailey and Mraz",
+      "category": "Home"
+    },
+    {
+      "id": "72c5ffc0-90eb-4308-af56-590f6115ccd1",
+      "date": "2024-04-10T21:35:30.507Z",
+      "amount": "394.11",
+      "merchant": "Baumbach, Brown and Wilkinson",
+      "category": "Automotive"
+    },
+    {
+      "id": "6a3d11e5-5fa5-4532-ab39-c2e60d2a371c",
+      "date": "2025-01-22T23:25:21.941Z",
+      "amount": "561.48",
+      "merchant": "Goodwin and Sons",
+      "category": "Computers"
+    },
+    {
+      "id": "7d35ddd6-be2b-43e8-99ac-4d28a0a496a7",
+      "date": "2025-07-03T00:12:09.223Z",
+      "amount": "95.19",
+      "merchant": "Aufderhar, Block and Farrell",
+      "category": "Toys"
+    },
+    {
+      "id": "bef77766-fc95-4070-855b-43fb0e35d891",
+      "date": "2025-06-07T22:25:52.498Z",
+      "amount": "539.30",
+      "merchant": "Balistreri, Herman and Hessel",
+      "category": "Automotive"
+    },
+    {
+      "id": "eec3b31b-9433-4d4f-917f-99969bbe0423",
+      "date": "2024-07-04T18:03:18.994Z",
+      "amount": "501.17",
+      "merchant": "O'Connell - Greenfelder",
+      "category": "Home"
+    },
+    {
+      "id": "f47e5afa-80ea-410a-9920-20bcaefed55c",
+      "date": "2025-09-17T04:25:54.173Z",
+      "amount": "920.41",
+      "merchant": "Dickens - Medhurst",
+      "category": "Movies"
+    },
+    {
+      "id": "31cec802-6362-401d-a6f6-d7b277ccd21c",
+      "date": "2024-12-11T13:19:49.822Z",
+      "amount": "962.14",
+      "merchant": "Smith - McLaughlin",
+      "category": "Industrial"
+    },
+    {
+      "id": "9642a6ba-cca3-40cb-b9cc-b7785c593231",
+      "date": "2025-05-12T09:58:08.058Z",
+      "amount": "846.93",
+      "merchant": "Glover, Rempel and Hirthe",
+      "category": "Sports"
+    },
+    {
+      "id": "20ad01ef-3187-4ee9-ba96-6be1ff88a5e2",
+      "date": "2025-08-19T02:00:55.412Z",
+      "amount": "848.03",
+      "merchant": "Brown Inc",
+      "category": "Clothing"
+    },
+    {
+      "id": "8f9ce098-871b-4723-8c99-ac6c3844f11c",
+      "date": "2025-02-02T18:14:25.428Z",
+      "amount": "511.16",
+      "merchant": "Stehr, Dach and Leffler",
+      "category": "Health"
+    },
+    {
+      "id": "b47ba538-559f-4864-96d9-0bb12b418977",
+      "date": "2025-03-30T09:54:20.883Z",
+      "amount": "724.62",
+      "merchant": "Bins - Donnelly",
+      "category": "Jewelry"
+    },
+    {
+      "id": "f005079a-5355-4cf9-a569-5f2d614212de",
+      "date": "2024-10-18T01:29:19.278Z",
+      "amount": "510.88",
+      "merchant": "Dietrich Inc",
+      "category": "Beauty"
+    },
+    {
+      "id": "893a4654-2a09-4fea-8c3b-5d796a7fbb50",
+      "date": "2025-04-13T20:14:24.473Z",
+      "amount": "191.47",
+      "merchant": "Ziemann - Windler",
+      "category": "Industrial"
+    },
+    {
+      "id": "3bd22f19-d788-482d-8b19-8e17ad5a93da",
+      "date": "2025-06-04T13:44:52.324Z",
+      "amount": "125.23",
+      "merchant": "Muller - Dickinson",
+      "category": "Shoes"
+    },
+    {
+      "id": "732e328b-3733-42d4-a565-94227dfcc9d9",
+      "date": "2025-07-25T08:37:32.883Z",
+      "amount": "307.63",
+      "merchant": "Morissette, Zulauf and Tromp",
+      "category": "Toys"
+    },
+    {
+      "id": "b019ae24-6103-442d-b4cb-28ac7004e786",
+      "date": "2025-03-19T03:54:16.094Z",
+      "amount": "690.51",
+      "merchant": "Rippin, Luettgen and Crist",
+      "category": "Garden"
+    },
+    {
+      "id": "7366c36e-f999-4c11-bfc2-7d3062f15640",
+      "date": "2025-04-03T10:54:31.892Z",
+      "amount": "73.13",
+      "merchant": "Beer, Watsica and Gleason",
+      "category": "Computers"
+    },
+    {
+      "id": "d0f25acb-6798-4a3a-ae1c-31b92d204ddd",
+      "date": "2025-07-30T07:06:08.791Z",
+      "amount": "595.66",
+      "merchant": "Schowalter - Kirlin",
+      "category": "Books"
+    },
+    {
+      "id": "eea9ec5f-81d9-42f5-9c58-5665b292ce4c",
+      "date": "2025-08-03T14:12:14.942Z",
+      "amount": "549.51",
+      "merchant": "Feeney Group",
+      "category": "Electronics"
+    },
+    {
+      "id": "76326498-9e13-4478-bc14-e95a39282789",
+      "date": "2024-09-17T21:07:45.373Z",
+      "amount": "122.03",
+      "merchant": "Rolfson Inc",
+      "category": "Clothing"
+    },
+    {
+      "id": "6e4effbc-c228-43c0-a53d-0d1c1d66980a",
+      "date": "2025-04-30T11:06:51.023Z",
+      "amount": "827.22",
+      "merchant": "Williamson and Sons",
+      "category": "Movies"
+    },
+    {
+      "id": "e19443c1-da71-4fc9-8cc5-ec81cc48e196",
+      "date": "2025-02-18T08:57:22.874Z",
+      "amount": "932.96",
+      "merchant": "Hauck, Kunze and Crooks",
+      "category": "Clothing"
+    },
+    {
+      "id": "6827831b-03dc-4a3d-8eff-7fdc11d3827e",
+      "date": "2024-07-21T12:10:56.459Z",
+      "amount": "213.04",
+      "merchant": "Walter - Jacobs",
+      "category": "Industrial"
+    },
+    {
+      "id": "77e7306d-fa21-42a3-a6e8-2aba55c52dbd",
+      "date": "2024-09-04T16:28:45.532Z",
+      "amount": "866.43",
+      "merchant": "McCullough Group",
+      "category": "Games"
+    },
+    {
+      "id": "fbadf729-7d68-4aeb-9f05-e73b11b505b1",
+      "date": "2024-08-07T03:51:31.884Z",
+      "amount": "515.99",
+      "merchant": "Legros, Langworth and Fadel",
+      "category": "Tools"
+    },
+    {
+      "id": "a46af440-0aa4-488c-b3a4-e50dce701cc0",
+      "date": "2025-05-08T13:01:51.849Z",
+      "amount": "522.02",
+      "merchant": "Rice Inc",
+      "category": "Books"
+    },
+    {
+      "id": "a8bb6aa5-6912-4599-92f3-a01f42e83083",
+      "date": "2025-08-03T21:54:11.137Z",
+      "amount": "914.28",
+      "merchant": "Adams and Sons",
+      "category": "Industrial"
+    },
+    {
+      "id": "84a373b1-6365-4362-9d19-40e71c7ab89e",
+      "date": "2024-12-09T13:20:37.052Z",
+      "amount": "860.22",
+      "merchant": "Franey - Kessler",
+      "category": "Outdoors"
+    },
+    {
+      "id": "7cdc4452-a4f7-4f04-b185-c17c8b0a9407",
+      "date": "2025-04-23T12:30:32.002Z",
+      "amount": "823.27",
+      "merchant": "Botsford Inc",
+      "category": "Grocery"
+    },
+    {
+      "id": "6f80acc8-8251-42f7-b5d9-538e72238392",
+      "date": "2024-03-31T05:45:08.890Z",
+      "amount": "127.03",
+      "merchant": "Goodwin - Feil",
+      "category": "Electronics"
+    },
+    {
+      "id": "8606c51c-4556-4b8e-99b3-38c61ccab009",
+      "date": "2024-09-04T08:52:11.171Z",
+      "amount": "969.88",
+      "merchant": "Miller LLC",
+      "category": "Shoes"
+    },
+    {
+      "id": "5a2f462e-45ae-449a-b0cb-53718dfe31ed",
+      "date": "2025-01-14T00:57:57.736Z",
+      "amount": "851.07",
+      "merchant": "Wisoky, Baumbach and Waelchi",
+      "category": "Movies"
+    },
+    {
+      "id": "43dba853-31c0-4022-8b8a-2e19593ce200",
+      "date": "2025-04-04T11:16:34.573Z",
+      "amount": "759.49",
+      "merchant": "Ondricka Inc",
+      "category": "Books"
+    },
+    {
+      "id": "0eaef0e8-333a-4463-8e17-56be25d45d4b",
+      "date": "2024-10-22T07:12:00.576Z",
+      "amount": "731.49",
+      "merchant": "Swift, Murray and Ortiz",
+      "category": "Outdoors"
+    },
+    {
+      "id": "9f3499e1-05c5-4be5-ae72-b56c5be6ded2",
+      "date": "2025-08-27T16:13:16.120Z",
+      "amount": "143.87",
+      "merchant": "Boyle, Wiza and Abbott",
+      "category": "Baby"
+    },
+    {
+      "id": "2ba43212-4b13-4e01-a203-30a507fff408",
+      "date": "2024-10-18T09:55:12.912Z",
+      "amount": "43.42",
+      "merchant": "Turner Inc",
+      "category": "Toys"
+    },
+    {
+      "id": "9f922002-5cfc-4ec6-a041-5fefd6241bd4",
+      "date": "2024-04-12T14:12:59.308Z",
+      "amount": "861.40",
+      "merchant": "Emard and Sons",
+      "category": "Sports"
+    },
+    {
+      "id": "2e928119-640a-4132-9055-c1bf3c37e1ce",
+      "date": "2024-05-26T10:50:39.307Z",
+      "amount": "520.36",
+      "merchant": "Stanton, Trantow and Gutkowski",
+      "category": "Baby"
+    },
+    {
+      "id": "aaa7b11f-0be6-45ce-b23c-455c5642d055",
+      "date": "2025-07-21T05:27:03.050Z",
+      "amount": "158.84",
+      "merchant": "Hessel LLC",
+      "category": "Health"
+    },
+    {
+      "id": "87977ee9-3acd-407a-b3e6-a4584f16dd74",
+      "date": "2024-12-02T02:24:09.441Z",
+      "amount": "137.98",
+      "merchant": "Bartell Inc",
+      "category": "Games"
+    },
+    {
+      "id": "87b5a15b-0136-447c-ba81-25c8c17fc9a0",
+      "date": "2024-11-14T12:45:19.112Z",
+      "amount": "499.76",
+      "merchant": "Aufderhar Group",
+      "category": "Baby"
+    },
+    {
+      "id": "c3f96999-a1f7-4160-a4f5-b790e3769096",
+      "date": "2025-06-11T23:29:29.503Z",
+      "amount": "369.90",
+      "merchant": "Fahey - Towne",
+      "category": "Grocery"
+    },
+    {
+      "id": "dd42545c-5ce7-4df1-accb-196b613e0f29",
+      "date": "2025-09-07T13:23:19.365Z",
+      "amount": "520.05",
+      "merchant": "Kautzer, Daugherty and Auer",
+      "category": "Books"
+    },
+    {
+      "id": "11f93229-0bde-4ee0-b994-c1439ba54e8b",
+      "date": "2024-04-27T05:02:59.341Z",
+      "amount": "346.34",
+      "merchant": "Hackett, Bergstrom and Hagenes",
+      "category": "Jewelry"
+    },
+    {
+      "id": "63d4ebcd-9652-4b86-9176-5d09673dc4dd",
+      "date": "2024-05-26T17:39:32.390Z",
+      "amount": "33.13",
+      "merchant": "Ernser, Okuneva and Kilback",
+      "category": "Shoes"
+    },
+    {
+      "id": "25d86cb7-02bc-483c-8805-24d224e36ad8",
+      "date": "2025-08-25T04:26:30.045Z",
+      "amount": "705.19",
+      "merchant": "Schuppe and Sons",
+      "category": "Outdoors"
+    },
+    {
+      "id": "32e9db0f-2261-4714-9c4d-f8d211895888",
+      "date": "2025-04-03T04:13:37.117Z",
+      "amount": "678.70",
+      "merchant": "Block, Reinger and Lang",
+      "category": "Outdoors"
+    },
+    {
+      "id": "1eaa0216-f539-441f-8961-bbcaf262a24c",
+      "date": "2024-06-11T19:53:41.861Z",
+      "amount": "794.57",
+      "merchant": "Walker, Herzog and Erdman",
+      "category": "Clothing"
+    },
+    {
+      "id": "61a19415-019e-423e-94a4-0420c8ffe8aa",
+      "date": "2025-03-31T18:03:32.198Z",
+      "amount": "271.29",
+      "merchant": "Hirthe and Sons",
+      "category": "Clothing"
+    },
+    {
+      "id": "4762e858-0acd-4ea0-8971-bf8a19fbf3bc",
+      "date": "2025-08-18T20:32:15.909Z",
+      "amount": "305.44",
+      "merchant": "Ruecker, Heidenreich and Rippin",
+      "category": "Clothing"
+    },
+    {
+      "id": "e97683eb-5040-4bc3-af9a-eaa81ecbe8d3",
+      "date": "2024-06-28T23:09:53.755Z",
+      "amount": "432.40",
+      "merchant": "Anderson - Ratke",
+      "category": "Home"
+    },
+    {
+      "id": "b1d5e72c-36e4-4142-bb44-702adc881277",
+      "date": "2025-03-21T23:01:21.041Z",
+      "amount": "103.68",
+      "merchant": "Schmidt, Connelly and Bradtke",
+      "category": "Electronics"
+    },
+    {
+      "id": "930a03c6-371b-476c-9295-430025dd41e1",
+      "date": "2024-11-09T15:45:02.928Z",
+      "amount": "189.53",
+      "merchant": "Luettgen, Schowalter and Corwin",
+      "category": "Computers"
+    },
+    {
+      "id": "8255de73-bd3a-42d5-9be0-62de5cbb392f",
+      "date": "2024-06-24T02:11:44.349Z",
+      "amount": "586.85",
+      "merchant": "Hahn, Hilpert and Moen",
+      "category": "Beauty"
+    },
+    {
+      "id": "886e4f0f-3829-450a-bebc-1b1f2fb96d3b",
+      "date": "2025-01-19T10:44:48.390Z",
+      "amount": "46.35",
+      "merchant": "Kuphal, Bergstrom and Huels",
+      "category": "Books"
+    },
+    {
+      "id": "310d17fd-88ee-4ee5-ae6e-4046ef28666e",
+      "date": "2025-03-23T19:27:19.607Z",
+      "amount": "155.04",
+      "merchant": "Rosenbaum Inc",
+      "category": "Industrial"
+    },
+    {
+      "id": "e4efb924-6178-4d74-87fe-be3c3e710b5d",
+      "date": "2024-06-04T04:44:22.312Z",
+      "amount": "970.43",
+      "merchant": "Stehr Group",
+      "category": "Toys"
+    },
+    {
+      "id": "5bf2a772-25e1-4540-a20c-8cb1d90ef1e4",
+      "date": "2024-10-19T20:41:46.576Z",
+      "amount": "558.72",
+      "merchant": "Weber - Konopelski",
+      "category": "Games"
+    },
+    {
+      "id": "6fb6c017-4d96-4eb3-af6f-532ba7552019",
+      "date": "2025-05-07T08:45:17.465Z",
+      "amount": "77.01",
+      "merchant": "Stamm LLC",
+      "category": "Garden"
+    },
+    {
+      "id": "2cf5aeaf-32a5-43fa-b169-1aa981ea5cb9",
+      "date": "2024-12-05T14:13:14.765Z",
+      "amount": "606.52",
+      "merchant": "Champlin, Lebsack and Rogahn",
+      "category": "Jewelry"
+    },
+    {
+      "id": "d2132a24-5a4e-4c9c-8986-8f570347be01",
+      "date": "2024-07-30T03:23:12.732Z",
+      "amount": "786.50",
+      "merchant": "Mitchell - Schuppe",
+      "category": "Shoes"
+    },
+    {
+      "id": "fbbed8b2-29ce-4ef4-b92b-f62464da6ae9",
+      "date": "2025-08-19T03:30:53.392Z",
+      "amount": "137.62",
+      "merchant": "Kirlin, Brekke and Rogahn",
+      "category": "Tools"
+    },
+    {
+      "id": "b62cb9d3-90e1-431e-a6be-f22b9fce3359",
+      "date": "2024-12-18T17:34:11.172Z",
+      "amount": "177.38",
+      "merchant": "Torp Group",
+      "category": "Music"
+    },
+    {
+      "id": "61f84c6e-b114-4b98-b50f-9da35066937d",
+      "date": "2025-01-05T14:42:25.712Z",
+      "amount": "353.90",
+      "merchant": "Will LLC",
+      "category": "Clothing"
+    },
+    {
+      "id": "42fca411-52dd-445f-8b10-a9f65ec26d7d",
+      "date": "2025-02-11T13:13:30.034Z",
+      "amount": "396.12",
+      "merchant": "Cartwright - Bruen",
+      "category": "Toys"
+    },
+    {
+      "id": "3cf0baeb-6acf-4554-8101-469f3522dd0d",
+      "date": "2024-07-23T01:21:54.137Z",
+      "amount": "547.47",
+      "merchant": "Predovic LLC",
+      "category": "Grocery"
+    },
+    {
+      "id": "81cc02df-1115-4ceb-a189-f8e6bcb6ed8f",
+      "date": "2025-09-24T09:31:56.962Z",
+      "amount": "621.00",
+      "merchant": "Rolfson Inc",
+      "category": "Electronics"
+    },
+    {
+      "id": "1a75e717-f5ff-4f89-98ac-bf661ca7c1e6",
+      "date": "2024-10-18T22:20:41.480Z",
+      "amount": "773.85",
+      "merchant": "Rosenbaum - Emmerich",
+      "category": "Beauty"
+    },
+    {
+      "id": "79d8d0c9-21e7-4b0a-99fe-ee566e0a0519",
+      "date": "2025-06-26T09:58:21.671Z",
+      "amount": "311.02",
+      "merchant": "Gusikowski Inc",
+      "category": "Grocery"
+    },
+    {
+      "id": "e67bf00d-311a-4f4b-8d66-a14c96a57be8",
+      "date": "2024-07-28T07:29:53.290Z",
+      "amount": "128.92",
+      "merchant": "Kuvalis Group",
+      "category": "Jewelry"
+    },
+    {
+      "id": "96349a49-f8aa-4710-8d38-22a09646bdd8",
+      "date": "2025-01-04T00:01:17.694Z",
+      "amount": "843.77",
+      "merchant": "Rohan, Hilll and Dickens",
+      "category": "Tools"
+    },
+    {
+      "id": "1014d1d5-8393-46f9-9e49-317b1c534e84",
+      "date": "2024-07-06T16:18:47.688Z",
+      "amount": "9.07",
+      "merchant": "Pouros, Hand and Ernser",
+      "category": "Beauty"
+    },
+    {
+      "id": "87ce2509-51b4-4664-9a24-dcdf89c2b9fe",
+      "date": "2025-01-26T05:14:52.701Z",
+      "amount": "358.00",
+      "merchant": "Rath and Sons",
+      "category": "Beauty"
+    },
+    {
+      "id": "eb1f944d-0ae5-4ce5-a6d6-2af9786d51ae",
+      "date": "2024-12-29T15:12:32.739Z",
+      "amount": "950.72",
+      "merchant": "Huel - Schmeler",
+      "category": "Music"
+    },
+    {
+      "id": "03e65ba3-4daf-4bfd-b2dd-0810488c30ba",
+      "date": "2025-01-17T07:11:59.989Z",
+      "amount": "956.97",
+      "merchant": "Denesik LLC",
+      "category": "Books"
+    },
+    {
+      "id": "f908d076-fd23-43b6-bc02-eca473f9667d",
+      "date": "2024-06-09T11:37:25.043Z",
+      "amount": "270.08",
+      "merchant": "Sipes - Bednar",
+      "category": "Electronics"
+    },
+    {
+      "id": "fc412e80-2f6f-45cf-9533-a9fd567b313b",
+      "date": "2024-12-09T22:18:36.192Z",
+      "amount": "220.75",
+      "merchant": "Ankunding - Kunde",
+      "category": "Sports"
+    },
+    {
+      "id": "31f8c85b-ebd8-475e-b290-e6bf4ecef027",
+      "date": "2025-06-19T21:16:59.187Z",
+      "amount": "55.04",
+      "merchant": "Kutch - Hermann",
+      "category": "Toys"
+    },
+    {
+      "id": "18df63de-4d2c-4b67-9749-b0874b4671d0",
+      "date": "2024-07-31T20:51:33.993Z",
+      "amount": "354.79",
+      "merchant": "Crona - Beahan",
+      "category": "Tools"
+    },
+    {
+      "id": "5a679423-3817-4fe2-98bb-a8fe9479ad91",
+      "date": "2024-09-08T03:54:24.284Z",
+      "amount": "857.94",
+      "merchant": "Metz - Beahan",
+      "category": "Clothing"
+    },
+    {
+      "id": "441ab539-0f9e-423c-b4ba-8bb35f962944",
+      "date": "2024-05-17T01:12:59.578Z",
+      "amount": "812.68",
+      "merchant": "Vandervort Inc",
+      "category": "Computers"
+    },
+    {
+      "id": "c7f4df0a-651a-4870-a2e7-e6b4d139c504",
+      "date": "2025-01-08T06:34:18.099Z",
+      "amount": "468.48",
+      "merchant": "Smitham - Emard",
+      "category": "Movies"
+    },
+    {
+      "id": "9e3acbd5-96fd-4beb-ba5c-d78f5abda0ab",
+      "date": "2024-09-20T18:46:09.260Z",
+      "amount": "139.02",
+      "merchant": "Lueilwitz - Paucek",
+      "category": "Automotive"
+    },
+    {
+      "id": "17ee9259-e33c-4a71-9850-a478651d489c",
+      "date": "2025-02-13T16:47:43.711Z",
+      "amount": "603.62",
+      "merchant": "Reinger, Dickinson and Bradtke",
+      "category": "Toys"
+    },
+    {
+      "id": "b559cf79-174c-4659-b035-ab41c9e99648",
+      "date": "2025-01-31T11:44:35.644Z",
+      "amount": "172.50",
+      "merchant": "Prohaska LLC",
+      "category": "Grocery"
+    },
+    {
+      "id": "f1366803-4174-412b-9900-fa33711e6add",
+      "date": "2024-05-24T16:20:19.894Z",
+      "amount": "945.93",
+      "merchant": "Lind and Sons",
+      "category": "Grocery"
+    },
+    {
+      "id": "9853aca5-6e6b-4284-bee5-d3cfab353890",
+      "date": "2025-08-27T16:56:56.064Z",
+      "amount": "257.06",
+      "merchant": "Weissnat, Pfannerstill and Lebsack",
+      "category": "Beauty"
+    },
+    {
+      "id": "d078b136-18ed-4b7c-98cb-26027e307ff4",
+      "date": "2025-06-11T13:39:56.093Z",
+      "amount": "244.01",
+      "merchant": "Tremblay, Von and Ziemann",
+      "category": "Music"
+    },
+    {
+      "id": "87ee1732-c4ff-4879-a453-28a4ea0d6ebb",
+      "date": "2024-10-05T04:32:37.005Z",
+      "amount": "361.91",
+      "merchant": "Welch, Roberts and Johnston",
+      "category": "Industrial"
+    },
+    {
+      "id": "9bba32d7-c3c1-4ffb-8ebd-aa27597dd26e",
+      "date": "2024-11-27T07:44:43.641Z",
+      "amount": "81.61",
+      "merchant": "Kerluke - Hartmann",
+      "category": "Electronics"
+    },
+    {
+      "id": "13f21d72-3263-4315-8609-e00dfb51a95d",
+      "date": "2025-04-12T19:51:09.066Z",
+      "amount": "364.86",
+      "merchant": "Kuhic - Vandervort",
+      "category": "Movies"
+    },
+    {
+      "id": "bae5c32f-f92f-4a90-96f4-9063187b094a",
+      "date": "2024-12-12T02:16:58.335Z",
+      "amount": "933.20",
+      "merchant": "Kris Group",
+      "category": "Jewelry"
+    },
+    {
+      "id": "08632547-4791-4405-975b-83f74a1f6e38",
+      "date": "2024-05-31T17:52:39.001Z",
+      "amount": "611.74",
+      "merchant": "Paucek, Johnson and Schulist",
+      "category": "Jewelry"
+    },
+    {
+      "id": "6a9a6a27-802a-4bbf-886a-670f46171396",
+      "date": "2024-08-04T15:47:57.150Z",
+      "amount": "216.96",
+      "merchant": "Schiller - Towne",
+      "category": "Kids"
+    },
+    {
+      "id": "83325fb3-f1aa-4ff3-bd61-094bacd3680a",
+      "date": "2024-07-11T23:17:08.556Z",
+      "amount": "551.99",
+      "merchant": "Funk - Upton",
+      "category": "Toys"
+    },
+    {
+      "id": "deb32999-f907-46c0-86a5-38858956fc45",
+      "date": "2025-04-14T19:01:26.240Z",
+      "amount": "245.76",
+      "merchant": "Schimmel - Mohr",
+      "category": "Outdoors"
+    },
+    {
+      "id": "792f89af-d151-4ed3-9eda-88ad83b17038",
+      "date": "2024-11-30T15:01:00.780Z",
+      "amount": "439.72",
+      "merchant": "Parisian - Schroeder",
+      "category": "Outdoors"
+    },
+    {
+      "id": "782f1941-8fd4-457a-b80d-4c1d268dcbcf",
+      "date": "2024-04-01T17:02:21.664Z",
+      "amount": "558.74",
+      "merchant": "Wolf, Fay and Hettinger",
+      "category": "Toys"
+    },
+    {
+      "id": "f7310508-8d57-44f1-ac06-684de1d3d705",
+      "date": "2025-05-06T05:13:18.709Z",
+      "amount": "521.62",
+      "merchant": "Jenkins Group",
+      "category": "Garden"
+    },
+    {
+      "id": "d4bd0865-d117-4a3b-b167-97f96f0412dc",
+      "date": "2024-10-29T10:07:48.702Z",
+      "amount": "548.20",
+      "merchant": "Muller, Beahan and Glover",
+      "category": "Kids"
+    },
+    {
+      "id": "12c73c6b-cae3-4dde-9a4b-9639954a404f",
+      "date": "2025-06-08T11:12:58.496Z",
+      "amount": "645.46",
+      "merchant": "Crooks and Sons",
+      "category": "Music"
+    },
+    {
+      "id": "464c73a2-a147-4b95-a11f-5124260bb3b5",
+      "date": "2025-03-01T16:53:32.506Z",
+      "amount": "307.54",
+      "merchant": "O'Keefe Group",
+      "category": "Sports"
+    },
+    {
+      "id": "41bffc33-a3e3-408e-97e2-50274f4ee04d",
+      "date": "2025-08-12T19:24:17.665Z",
+      "amount": "548.96",
+      "merchant": "Turner LLC",
+      "category": "Music"
+    },
+    {
+      "id": "2b8c3a4b-1030-4eca-a14b-986e0e364282",
+      "date": "2025-04-05T07:29:02.903Z",
+      "amount": "366.66",
+      "merchant": "McClure, Heathcote and Flatley",
+      "category": "Tools"
+    },
+    {
+      "id": "0d8d65fd-87a5-410d-84d0-555bd95956e6",
+      "date": "2025-02-20T17:29:49.283Z",
+      "amount": "778.76",
+      "merchant": "Zboncak, Wiegand and Reichel",
+      "category": "Health"
+    },
+    {
+      "id": "71341620-7cd9-4713-8880-70ae2b4118ce",
+      "date": "2024-07-03T03:02:16.910Z",
+      "amount": "969.06",
+      "merchant": "Predovic and Sons",
+      "category": "Automotive"
+    },
+    {
+      "id": "c2559f82-0841-41be-9464-e5ae925959ce",
+      "date": "2025-09-09T16:57:32.006Z",
+      "amount": "286.16",
+      "merchant": "Blanda Group",
+      "category": "Jewelry"
+    },
+    {
+      "id": "67731d64-0f5f-4848-9df2-d7ba453442ed",
+      "date": "2025-03-05T21:19:04.953Z",
+      "amount": "239.84",
+      "merchant": "Kihn, Fisher and Gleason",
+      "category": "Computers"
+    },
+    {
+      "id": "b400046b-94e7-4487-9e66-22459351ece1",
+      "date": "2025-05-01T18:24:56.910Z",
+      "amount": "417.94",
+      "merchant": "Carter and Sons",
+      "category": "Games"
+    },
+    {
+      "id": "2ab98055-720c-4142-836d-19bb14e0d6a2",
+      "date": "2025-03-04T19:54:27.978Z",
+      "amount": "894.39",
+      "merchant": "Hoeger, Schaefer and Halvorson",
+      "category": "Shoes"
+    },
+    {
+      "id": "e55cf072-9129-47ea-b6bb-960324db6738",
+      "date": "2025-06-17T04:56:41.065Z",
+      "amount": "694.45",
+      "merchant": "Lockman - Conn",
+      "category": "Industrial"
+    },
+    {
+      "id": "44db2401-01fe-4e82-9b4d-e2ced55d2131",
+      "date": "2025-01-09T10:54:51.672Z",
+      "amount": "747.28",
+      "merchant": "Considine, Kunde and Ledner",
+      "category": "Outdoors"
+    },
+    {
+      "id": "0debce71-4e3c-4acc-b679-bb5d05e21a85",
+      "date": "2024-05-09T19:17:27.355Z",
+      "amount": "131.41",
+      "merchant": "Anderson - Spencer",
+      "category": "Music"
+    },
+    {
+      "id": "d4f3ed3c-2de7-433d-9724-c6dd4bb71413",
+      "date": "2025-01-13T03:33:15.905Z",
+      "amount": "65.57",
+      "merchant": "Fahey - Williamson",
+      "category": "Clothing"
+    },
+    {
+      "id": "9729ecd4-4e29-4763-9879-53786f74d7b0",
+      "date": "2025-08-23T14:36:31.645Z",
+      "amount": "345.22",
+      "merchant": "Rogahn - O'Keefe",
+      "category": "Music"
+    },
+    {
+      "id": "8e5b9b3e-ca25-4ec3-8d1e-745cbd52fe36",
+      "date": "2024-09-26T17:58:26.040Z",
+      "amount": "321.96",
+      "merchant": "Lubowitz, Witting and Rohan",
+      "category": "Games"
+    },
+    {
+      "id": "270ebb91-1545-461e-a89e-e24118737492",
+      "date": "2025-08-07T04:06:14.942Z",
+      "amount": "640.97",
+      "merchant": "D'Amore - Becker",
+      "category": "Tools"
+    },
+    {
+      "id": "f7e82d5f-400e-4518-94cf-10718b042dc2",
+      "date": "2025-06-21T04:43:06.318Z",
+      "amount": "803.99",
+      "merchant": "Hettinger - Kohler",
+      "category": "Clothing"
+    },
+    {
+      "id": "b02f5fa2-3a01-453f-ab62-86700f1f1409",
+      "date": "2025-08-28T06:45:47.494Z",
+      "amount": "782.64",
+      "merchant": "Collins - Gutmann",
+      "category": "Games"
+    },
+    {
+      "id": "87858d45-e598-4c07-9b81-ec62ec161e18",
+      "date": "2025-05-01T03:19:03.150Z",
+      "amount": "719.15",
+      "merchant": "Shanahan, Hahn and Renner",
+      "category": "Home"
+    },
+    {
+      "id": "48c2fb07-7c35-4f79-ace2-1e2f3d012db7",
+      "date": "2024-09-03T00:52:34.284Z",
+      "amount": "749.50",
+      "merchant": "Walker LLC",
+      "category": "Electronics"
+    },
+    {
+      "id": "0823b4c2-f8b0-4925-a018-0d85b382677e",
+      "date": "2024-09-15T04:02:04.677Z",
+      "amount": "515.89",
+      "merchant": "Mayert and Sons",
+      "category": "Jewelry"
+    },
+    {
+      "id": "5ba81f7c-41fb-44ec-904a-5b2aaa91d9d0",
+      "date": "2025-05-23T03:50:32.471Z",
+      "amount": "756.70",
+      "merchant": "Ruecker - Hackett",
+      "category": "Computers"
+    },
+    {
+      "id": "58fb86d9-f6e5-4e92-aede-493b032743c5",
+      "date": "2024-12-18T16:25:39.253Z",
+      "amount": "246.00",
+      "merchant": "Kuhic, Dickens and Price",
+      "category": "Tools"
+    },
+    {
+      "id": "1f89eb96-e3c5-4907-bb8a-28f77ca1e075",
+      "date": "2024-06-19T20:58:20.502Z",
+      "amount": "585.72",
+      "merchant": "Beahan LLC",
+      "category": "Industrial"
+    },
+    {
+      "id": "0d881051-cc2b-44bd-9c59-b29f67fa8586",
+      "date": "2024-05-24T02:16:03.220Z",
+      "amount": "887.15",
+      "merchant": "O'Kon - Muller",
+      "category": "Games"
+    },
+    {
+      "id": "3e8eb760-9a38-47cb-a8a6-6758460cf443",
+      "date": "2024-12-28T10:56:32.245Z",
+      "amount": "227.85",
+      "merchant": "Dooley and Sons",
+      "category": "Books"
+    },
+    {
+      "id": "be9f01c6-ebe7-424e-a656-556d7808cee1",
+      "date": "2025-01-19T05:23:51.506Z",
+      "amount": "355.88",
+      "merchant": "Raynor - Kunze",
+      "category": "Baby"
+    },
+    {
+      "id": "d1328a1a-e397-4d48-869c-52c99825c26f",
+      "date": "2024-07-12T00:40:44.462Z",
+      "amount": "60.11",
+      "merchant": "Little and Sons",
+      "category": "Outdoors"
+    },
+    {
+      "id": "f1565d5d-4e91-452c-949b-219c7d5884a2",
+      "date": "2025-05-07T15:21:06.924Z",
+      "amount": "440.96",
+      "merchant": "Stamm - Ortiz",
+      "category": "Clothing"
+    },
+    {
+      "id": "b8a8ef89-35cd-4948-a06b-59224579a5e4",
+      "date": "2024-10-04T10:21:15.949Z",
+      "amount": "918.83",
+      "merchant": "Huel - Hodkiewicz",
+      "category": "Tools"
+    },
+    {
+      "id": "2eabe479-aef3-40c5-b9a3-02ceef0adfa1",
+      "date": "2024-07-29T12:18:21.198Z",
+      "amount": "805.74",
+      "merchant": "Stanton, Cassin and Feest",
+      "category": "Baby"
+    },
+    {
+      "id": "0e30a07d-cd3d-4deb-8e17-3724a57ddc1c",
+      "date": "2024-07-17T21:46:49.696Z",
+      "amount": "113.31",
+      "merchant": "Runolfsson Group",
+      "category": "Beauty"
+    },
+    {
+      "id": "cdfdd570-f7d7-4652-a15a-08726256a17d",
+      "date": "2024-10-17T02:37:45.266Z",
+      "amount": "233.50",
+      "merchant": "Goldner and Sons",
+      "category": "Automotive"
+    },
+    {
+      "id": "abe1aebb-1eda-499a-9e37-a9b3f2aef86d",
+      "date": "2024-06-30T11:31:22.641Z",
+      "amount": "456.89",
+      "merchant": "Wisozk - Swift",
+      "category": "Toys"
+    },
+    {
+      "id": "8a5228d2-dfdd-4431-9dc1-c1fe83ddf3d8",
+      "date": "2024-12-12T02:57:07.414Z",
+      "amount": "264.27",
+      "merchant": "O'Kon, Goyette and Witting",
+      "category": "Books"
+    },
+    {
+      "id": "708efed7-4360-4840-a4f9-ad810b806573",
+      "date": "2024-11-08T17:45:07.801Z",
+      "amount": "876.49",
+      "merchant": "Kutch, Bartoletti and Armstrong",
+      "category": "Toys"
+    },
+    {
+      "id": "e97e346c-6724-48e7-b6d1-706a2711a960",
+      "date": "2025-04-27T21:55:51.528Z",
+      "amount": "530.80",
+      "merchant": "D'Amore - Beer",
+      "category": "Automotive"
+    },
+    {
+      "id": "22eeaa20-41ea-4728-9dfd-71e0c91a8c39",
+      "date": "2025-07-07T02:06:37.378Z",
+      "amount": "67.35",
+      "merchant": "Schaden, Bahringer and Weissnat",
+      "category": "Kids"
+    },
+    {
+      "id": "64f4ea6d-ff05-469e-83d3-3b44550a0cca",
+      "date": "2024-12-15T05:00:09.585Z",
+      "amount": "140.30",
+      "merchant": "Lubowitz Group",
+      "category": "Automotive"
+    },
+    {
+      "id": "d49be900-1786-4e2b-bc71-c8cd3da44613",
+      "date": "2025-07-29T19:59:46.528Z",
+      "amount": "303.27",
+      "merchant": "Morissette, Macejkovic and Hartmann",
+      "category": "Industrial"
+    },
+    {
+      "id": "e8ebfc9b-05ed-466a-898b-e7eb269b5642",
+      "date": "2024-04-28T07:29:29.497Z",
+      "amount": "871.19",
+      "merchant": "Cruickshank and Sons",
+      "category": "Jewelry"
+    },
+    {
+      "id": "86648648-20e8-48cd-af24-c1b9108aebeb",
+      "date": "2025-09-02T13:05:46.116Z",
+      "amount": "800.98",
+      "merchant": "Roberts, Howe and Considine",
+      "category": "Health"
+    },
+    {
+      "id": "4d1c1114-d7d1-4658-9f4b-108b2ac574f0",
+      "date": "2025-04-01T11:20:31.303Z",
+      "amount": "526.94",
+      "merchant": "Jaskolski Inc",
+      "category": "Tools"
+    },
+    {
+      "id": "cf5d28e4-966f-4155-b9fd-015bf71f5f59",
+      "date": "2024-05-15T22:36:37.475Z",
+      "amount": "191.95",
+      "merchant": "Hand Group",
+      "category": "Home"
+    },
+    {
+      "id": "7691b184-c3d1-497b-a9d3-aa61300e95e9",
+      "date": "2025-05-13T15:48:25.472Z",
+      "amount": "825.39",
+      "merchant": "Kihn Inc",
+      "category": "Sports"
+    },
+    {
+      "id": "e5b461e3-583f-4cd2-88a1-8ddc8c08f7e7",
+      "date": "2024-06-24T06:48:17.696Z",
+      "amount": "380.36",
+      "merchant": "Cruickshank Inc",
+      "category": "Jewelry"
+    },
+    {
+      "id": "1e662a0a-b840-4422-8715-b2ca31f1ba4a",
+      "date": "2024-06-01T01:30:40.579Z",
+      "amount": "907.23",
+      "merchant": "Torp Inc",
+      "category": "Sports"
+    },
+    {
+      "id": "4a8c7a56-34ee-43b3-b478-88c71467a5f7",
+      "date": "2025-03-24T20:49:33.794Z",
+      "amount": "901.02",
+      "merchant": "Bergstrom - Pfannerstill",
+      "category": "Tools"
+    },
+    {
+      "id": "6d341973-3d82-449f-9b68-02a8a25542e9",
+      "date": "2025-07-04T14:38:05.728Z",
+      "amount": "277.24",
+      "merchant": "Kub - Carter",
+      "category": "Music"
+    },
+    {
+      "id": "3fe22d6f-e7cc-45ee-8dfe-d49d8c8bdaea",
+      "date": "2025-06-06T17:21:45.749Z",
+      "amount": "36.09",
+      "merchant": "Renner - Schneider",
+      "category": "Outdoors"
+    },
+    {
+      "id": "b7f55902-c393-4e6a-b81a-da9c39cb2db9",
+      "date": "2025-06-07T04:13:33.381Z",
+      "amount": "71.42",
+      "merchant": "Swift - Ziemann",
+      "category": "Kids"
+    },
+    {
+      "id": "fa545ba1-0da6-4552-8d6f-9c9ab22d5f3d",
+      "date": "2025-02-10T15:49:39.284Z",
+      "amount": "949.84",
+      "merchant": "Mohr - Toy",
+      "category": "Industrial"
+    },
+    {
+      "id": "6a66e9c1-c1b8-4e5a-8114-35f72b446c18",
+      "date": "2024-10-17T06:43:15.936Z",
+      "amount": "755.30",
+      "merchant": "Huel - Jacobs",
+      "category": "Garden"
+    },
+    {
+      "id": "db2e2aca-694c-49f2-b83a-00797eb42c2f",
+      "date": "2024-06-15T16:11:59.012Z",
+      "amount": "838.63",
+      "merchant": "Lockman - Bauch",
+      "category": "Movies"
+    },
+    {
+      "id": "d8cf2bef-2a73-4a6a-b00a-91836d691ab8",
+      "date": "2025-04-03T23:42:06.376Z",
+      "amount": "805.50",
+      "merchant": "Lebsack LLC",
+      "category": "Tools"
+    },
+    {
+      "id": "8dd261a8-de10-47af-8788-765c6c153546",
+      "date": "2025-04-20T19:18:47.386Z",
+      "amount": "434.78",
+      "merchant": "Rogahn - Lebsack",
+      "category": "Tools"
+    },
+    {
+      "id": "45c381b0-4a26-47b6-a777-240dc43810dc",
+      "date": "2025-07-31T00:53:52.126Z",
+      "amount": "641.82",
+      "merchant": "Nitzsche, Jakubowski and Stoltenberg",
+      "category": "Music"
+    },
+    {
+      "id": "56d599a9-8024-4196-9ab4-7a19051840a4",
+      "date": "2024-11-18T09:01:06.498Z",
+      "amount": "324.71",
+      "merchant": "Collins - Mante",
+      "category": "Kids"
+    },
+    {
+      "id": "4412ff91-f39c-40f2-a9a3-9564efd5c283",
+      "date": "2024-09-21T10:41:55.957Z",
+      "amount": "617.35",
+      "merchant": "Mayert Inc",
+      "category": "Kids"
+    },
+    {
+      "id": "83f05859-b2ae-46eb-a9dd-299d2d997f3e",
+      "date": "2024-08-20T03:17:24.857Z",
+      "amount": "318.04",
+      "merchant": "Gutkowski and Sons",
+      "category": "Baby"
+    },
+    {
+      "id": "2588406d-6e70-490c-a800-27c4036ac0d9",
+      "date": "2025-05-21T04:32:21.079Z",
+      "amount": "191.00",
+      "merchant": "Langworth - Mohr",
+      "category": "Health"
+    },
+    {
+      "id": "bbda6ef6-61e3-4667-b813-4c8d4303ff9d",
+      "date": "2024-03-26T00:15:27.030Z",
+      "amount": "423.50",
+      "merchant": "Morissette Group",
+      "category": "Baby"
+    },
+    {
+      "id": "a719c205-9be2-402f-ae26-af73ef6c7da7",
+      "date": "2024-12-01T05:49:43.084Z",
+      "amount": "526.67",
+      "merchant": "Kessler Inc",
+      "category": "Shoes"
+    },
+    {
+      "id": "8fb7d8c1-6e86-4ed9-8918-83f976786606",
+      "date": "2024-11-20T23:34:29.000Z",
+      "amount": "503.87",
+      "merchant": "Ruecker - Cole",
+      "category": "Health"
+    },
+    {
+      "id": "827feb24-3b09-4858-abf6-812def1f78f5",
+      "date": "2025-02-13T00:23:51.027Z",
+      "amount": "308.52",
+      "merchant": "Langworth LLC",
+      "category": "Toys"
+    },
+    {
+      "id": "2d9891c2-f6dc-4b3b-8cdc-c16ddc6492a7",
+      "date": "2024-09-07T22:55:56.616Z",
+      "amount": "27.45",
+      "merchant": "Donnelly - Corwin",
+      "category": "Industrial"
+    },
+    {
+      "id": "ade98408-2ffa-415f-970a-44cfa3321649",
+      "date": "2024-07-05T18:11:58.289Z",
+      "amount": "825.35",
+      "merchant": "Marquardt LLC",
+      "category": "Music"
+    },
+    {
+      "id": "8454eb04-b800-450a-9b3c-2f799284e738",
+      "date": "2025-03-31T05:07:57.139Z",
+      "amount": "479.90",
+      "merchant": "Schultz - Bernhard",
+      "category": "Health"
+    },
+    {
+      "id": "3b4cbd8c-b0d4-49b0-bb75-63523925b8e2",
+      "date": "2025-04-06T08:14:51.616Z",
+      "amount": "463.55",
+      "merchant": "Keeling - Daugherty",
+      "category": "Outdoors"
+    },
+    {
+      "id": "cf106964-237b-49ae-b05c-6bdedc7d1da6",
+      "date": "2025-05-20T07:56:37.661Z",
+      "amount": "409.61",
+      "merchant": "Hessel, Treutel and Kreiger",
+      "category": "Sports"
+    },
+    {
+      "id": "43897c33-f04f-4742-aca0-877298d6e4ca",
+      "date": "2025-02-16T23:06:00.701Z",
+      "amount": "189.55",
+      "merchant": "Dare LLC",
+      "category": "Jewelry"
+    },
+    {
+      "id": "3b2d96e1-0c00-4f19-8504-34744a532988",
+      "date": "2025-09-01T08:26:56.654Z",
+      "amount": "963.42",
+      "merchant": "Heathcote - Rogahn",
+      "category": "Beauty"
+    },
+    {
+      "id": "b612591d-4ffc-4934-9c86-1d5bb01d9360",
+      "date": "2025-04-27T12:16:35.670Z",
+      "amount": "282.82",
+      "merchant": "Goldner - Durgan",
+      "category": "Books"
+    },
+    {
+      "id": "f3a9c1b4-9de6-428d-b2d0-19e43ad35741",
+      "date": "2025-04-15T09:02:23.305Z",
+      "amount": "53.08",
+      "merchant": "Rath Group",
+      "category": "Games"
+    },
+    {
+      "id": "cd25f0dd-e83c-4cbf-81e7-eac72120d363",
+      "date": "2025-01-25T03:46:00.848Z",
+      "amount": "280.98",
+      "merchant": "Collins Group",
+      "category": "Industrial"
+    },
+    {
+      "id": "84661d7a-fa1c-4582-b91a-37839e8fce1e",
+      "date": "2024-10-19T12:17:35.017Z",
+      "amount": "377.61",
+      "merchant": "Ratke, Larkin and Dicki",
+      "category": "Home"
+    },
+    {
+      "id": "8d56c2dc-f33b-4db2-b060-5e2724088baf",
+      "date": "2024-05-09T11:27:22.357Z",
+      "amount": "44.14",
+      "merchant": "Barton, Wintheiser and Harber",
+      "category": "Tools"
+    },
+    {
+      "id": "27a150a3-a717-4c16-aa61-0df6ab3e75c6",
+      "date": "2024-06-19T19:17:20.488Z",
+      "amount": "513.22",
+      "merchant": "Baumbach and Sons",
+      "category": "Home"
+    },
+    {
+      "id": "9e99d946-a507-41eb-a680-8315c5b0dae2",
+      "date": "2024-03-26T20:33:52.210Z",
+      "amount": "80.91",
+      "merchant": "Runte Inc",
+      "category": "Computers"
+    },
+    {
+      "id": "ac048aee-5f9e-4762-b055-bf3a39b706d5",
+      "date": "2024-08-02T21:15:42.725Z",
+      "amount": "503.86",
+      "merchant": "Abshire, Labadie and Dach",
+      "category": "Games"
+    },
+    {
+      "id": "d426a505-e2bd-4072-b1f1-69edb47b45f2",
+      "date": "2025-08-26T22:05:05.508Z",
+      "amount": "775.87",
+      "merchant": "Monahan Group",
+      "category": "Kids"
+    },
+    {
+      "id": "49984700-172a-499d-9143-9ef19d2ff08e",
+      "date": "2025-01-18T02:42:49.084Z",
+      "amount": "426.90",
+      "merchant": "Kuvalis - Effertz",
+      "category": "Electronics"
+    },
+    {
+      "id": "5d7b1a57-f17d-43a0-9773-31785c6e0453",
+      "date": "2025-05-21T03:42:37.067Z",
+      "amount": "530.97",
+      "merchant": "Vandervort, Wisozk and Windler",
+      "category": "Automotive"
+    },
+    {
+      "id": "d045294b-935e-4e77-b71a-90d89c1233b9",
+      "date": "2024-08-14T15:13:17.132Z",
+      "amount": "454.55",
+      "merchant": "Lesch - Tillman",
+      "category": "Garden"
+    },
+    {
+      "id": "4eb24c89-e6fe-4a44-a508-db231691a572",
+      "date": "2024-09-25T23:01:58.686Z",
+      "amount": "368.76",
+      "merchant": "Sanford - Lemke",
+      "category": "Clothing"
+    },
+    {
+      "id": "3b37d75b-3172-42bc-a009-b17fa02efbf5",
+      "date": "2025-04-02T05:44:19.423Z",
+      "amount": "217.55",
+      "merchant": "Rippin, Lockman and Schinner",
+      "category": "Automotive"
+    },
+    {
+      "id": "c607fe9e-02bf-4bba-94ef-62b91dc3bea9",
+      "date": "2025-07-15T08:55:43.571Z",
+      "amount": "136.08",
+      "merchant": "Hermiston, Simonis and Emmerich",
+      "category": "Tools"
+    },
+    {
+      "id": "a5020062-37c5-431e-81dd-7754a686a040",
+      "date": "2025-08-18T06:06:49.555Z",
+      "amount": "45.67",
+      "merchant": "Gulgowski Inc",
+      "category": "Tools"
+    },
+    {
+      "id": "569baf43-add2-45fe-bafa-15225e414cf6",
+      "date": "2024-10-14T05:35:23.916Z",
+      "amount": "798.72",
+      "merchant": "Osinski - Adams",
+      "category": "Toys"
+    },
+    {
+      "id": "a54d22c4-65ea-4cf7-bd34-2a058ceab8ff",
+      "date": "2025-04-05T06:29:05.048Z",
+      "amount": "356.07",
+      "merchant": "Jaskolski, Rutherford and Turner",
+      "category": "Games"
+    },
+    {
+      "id": "80434e1d-df41-46f0-83a0-3c8cd39bb814",
+      "date": "2024-11-22T08:43:50.682Z",
+      "amount": "254.40",
+      "merchant": "Swift - Gleason",
+      "category": "Shoes"
+    },
+    {
+      "id": "fd9dcc10-a78e-440a-96e6-3f1ab15962d0",
+      "date": "2025-09-09T19:29:35.723Z",
+      "amount": "609.86",
+      "merchant": "Kutch - Kuhn",
+      "category": "Shoes"
+    },
+    {
+      "id": "1fc305e2-c1b5-46a3-b8bd-e9c69b1ff360",
+      "date": "2024-07-06T08:29:43.344Z",
+      "amount": "834.14",
+      "merchant": "Emard, Bartell and Murray",
+      "category": "Baby"
+    },
+    {
+      "id": "e78bd760-c2c8-4261-8666-47951c61489c",
+      "date": "2024-08-18T16:41:22.631Z",
+      "amount": "501.62",
+      "merchant": "Bruen, Robel and Wehner",
+      "category": "Electronics"
+    },
+    {
+      "id": "68e5ad07-33f9-4f8c-9ae6-d7db068cc8a1",
+      "date": "2024-09-20T12:39:06.950Z",
+      "amount": "203.94",
+      "merchant": "Bradtke, Murray and Kuhlman",
+      "category": "Clothing"
+    },
+    {
+      "id": "ab27c4c5-51ac-427a-801d-1b2bf29fbb94",
+      "date": "2024-10-03T17:15:46.392Z",
+      "amount": "66.43",
+      "merchant": "Kuhn - Baumbach",
+      "category": "Books"
+    },
+    {
+      "id": "ab9b1657-1e59-4aa4-bd43-694623f59670",
+      "date": "2025-08-18T13:44:04.386Z",
+      "amount": "348.45",
+      "merchant": "Crist - Walter",
+      "category": "Books"
+    },
+    {
+      "id": "99c5bffb-595b-42b0-9f2a-dbb4becc6d77",
+      "date": "2024-07-02T06:40:22.628Z",
+      "amount": "211.98",
+      "merchant": "Leffler, Wilderman and Cartwright",
+      "category": "Automotive"
+    },
+    {
+      "id": "a2f26780-528e-423e-a442-00b14c3cf5cd",
+      "date": "2024-05-07T00:50:55.963Z",
+      "amount": "977.65",
+      "merchant": "Will - Collins",
+      "category": "Music"
+    },
+    {
+      "id": "4742f4d3-5622-4ad6-b9de-a217d9f96594",
+      "date": "2025-05-08T08:08:19.557Z",
+      "amount": "226.03",
+      "merchant": "Schroeder, Weber and Hilpert",
+      "category": "Grocery"
+    },
+    {
+      "id": "527ab782-b0f0-4c3a-b47c-bbcc3e1686d2",
+      "date": "2024-10-08T18:02:15.854Z",
+      "amount": "95.74",
+      "merchant": "Roob, Littel and Langosh",
+      "category": "Sports"
+    },
+    {
+      "id": "e7899528-f518-4f81-a2d4-9577746bbecb",
+      "date": "2024-10-07T03:19:29.405Z",
+      "amount": "586.20",
+      "merchant": "Lubowitz - Beahan",
+      "category": "Kids"
+    },
+    {
+      "id": "1520a8f3-9cab-4e41-ac05-aba00f86c394",
+      "date": "2025-03-21T20:39:17.424Z",
+      "amount": "902.78",
+      "merchant": "Auer, Heaney and Kuvalis",
+      "category": "Outdoors"
+    },
+    {
+      "id": "aa93aee7-a0d2-4e5b-9de5-087369180ba5",
+      "date": "2025-09-22T01:13:13.013Z",
+      "amount": "693.15",
+      "merchant": "Homenick - Boyle",
+      "category": "Computers"
+    },
+    {
+      "id": "b0d397e3-a2da-4439-ba67-aca68cde7ce7",
+      "date": "2024-07-08T06:29:29.505Z",
+      "amount": "528.79",
+      "merchant": "Franey Inc",
+      "category": "Clothing"
+    },
+    {
+      "id": "2fe32613-a1c6-4f1b-b28f-66575840a450",
+      "date": "2025-05-21T17:09:45.913Z",
+      "amount": "949.56",
+      "merchant": "Larson, Nader and Wiza",
+      "category": "Clothing"
+    },
+    {
+      "id": "8fca278b-d408-45df-bea8-7cc81f229a1c",
+      "date": "2024-04-08T14:35:52.685Z",
+      "amount": "180.98",
+      "merchant": "Klocko - Marks",
+      "category": "Health"
+    },
+    {
+      "id": "4ab470cd-5ec6-48d4-a1f8-e29970705707",
+      "date": "2024-04-24T01:30:37.888Z",
+      "amount": "348.60",
+      "merchant": "Wisozk - Luettgen",
+      "category": "Jewelry"
+    },
+    {
+      "id": "de8ad5a9-c30d-4e52-8b7c-75a2fcc9a45b",
+      "date": "2025-06-07T09:39:54.436Z",
+      "amount": "56.74",
+      "merchant": "Gulgowski, Baumbach and Lehner",
+      "category": "Kids"
+    },
+    {
+      "id": "4e9730c5-5cab-4054-85a9-0c42a7befd2f",
+      "date": "2024-08-19T19:12:42.301Z",
+      "amount": "76.34",
+      "merchant": "Collier - Ernser",
+      "category": "Electronics"
+    },
+    {
+      "id": "b7480a0e-634f-41ea-890e-f3ded218d7e4",
+      "date": "2025-01-29T01:24:19.349Z",
+      "amount": "393.14",
+      "merchant": "Dietrich, Dare and Schmidt",
+      "category": "Beauty"
+    },
+    {
+      "id": "de02bcad-1e91-47a3-8e50-dd4245511332",
+      "date": "2024-11-01T13:56:21.255Z",
+      "amount": "405.65",
+      "merchant": "Considine - Leannon",
+      "category": "Sports"
+    },
+    {
+      "id": "4265bebb-f236-455f-966e-c6effee032f3",
+      "date": "2025-08-03T23:39:52.140Z",
+      "amount": "693.32",
+      "merchant": "Krajcik LLC",
+      "category": "Clothing"
+    },
+    {
+      "id": "21f5530d-6f72-43f0-900a-0e917779a66c",
+      "date": "2024-12-21T19:37:01.161Z",
+      "amount": "746.35",
+      "merchant": "Kshlerin - O'Conner",
+      "category": "Computers"
+    },
+    {
+      "id": "f24bfa0c-ca01-45dc-81cb-7961736be564",
+      "date": "2025-08-04T03:00:05.442Z",
+      "amount": "633.08",
+      "merchant": "Thompson - Koss",
+      "category": "Games"
+    },
+    {
+      "id": "85c6d5f3-c5fe-4034-8c4e-3591cd85c6fd",
+      "date": "2024-09-04T08:14:42.264Z",
+      "amount": "382.30",
+      "merchant": "Stanton - Runolfsdottir",
+      "category": "Sports"
+    },
+    {
+      "id": "06f6f74f-72f1-46d5-bc05-27e7e2b88a42",
+      "date": "2025-02-28T07:33:22.475Z",
+      "amount": "772.94",
+      "merchant": "Casper and Sons",
+      "category": "Automotive"
+    },
+    {
+      "id": "ea18f4f9-a424-46ae-958d-629e893e46df",
+      "date": "2024-09-10T20:15:55.958Z",
+      "amount": "313.89",
+      "merchant": "Bergstrom - Moen",
+      "category": "Sports"
+    },
+    {
+      "id": "f8a464b8-e97c-45f6-ae5b-78ba014c607b",
+      "date": "2025-01-16T15:03:59.687Z",
+      "amount": "723.72",
+      "merchant": "Watsica, Kessler and Bartell",
+      "category": "Outdoors"
+    },
+    {
+      "id": "faeffe22-a2c0-4d46-b187-02fcd015b657",
+      "date": "2024-09-30T04:05:47.758Z",
+      "amount": "771.47",
+      "merchant": "Berge - Nader",
+      "category": "Home"
+    },
+    {
+      "id": "49387e7f-20ca-4767-9496-1978aaf1aa79",
+      "date": "2025-01-21T14:09:25.282Z",
+      "amount": "520.34",
+      "merchant": "Haag Group",
+      "category": "Tools"
+    },
+    {
+      "id": "b67b187c-0a6f-415f-9e16-a88f07fd22cc",
+      "date": "2025-09-10T18:46:55.345Z",
+      "amount": "945.06",
+      "merchant": "Gislason, Nitzsche and Kertzmann",
+      "category": "Electronics"
+    },
+    {
+      "id": "5e1a5432-833d-4b0f-913a-b37edfde0a6c",
+      "date": "2024-03-29T15:04:41.518Z",
+      "amount": "330.92",
+      "merchant": "Graham and Sons",
+      "category": "Industrial"
+    },
+    {
+      "id": "8213e92a-897d-4afb-8e5c-b300d133bec9",
+      "date": "2025-01-06T04:48:34.469Z",
+      "amount": "56.03",
+      "merchant": "Sauer - Sporer",
+      "category": "Outdoors"
+    },
+    {
+      "id": "be153a21-e93b-465f-bc50-999eb877c6d7",
+      "date": "2024-06-28T15:51:19.807Z",
+      "amount": "544.28",
+      "merchant": "Schmeler and Sons",
+      "category": "Jewelry"
+    },
+    {
+      "id": "6e8aebc9-692a-4d41-ba65-fc7889106420",
+      "date": "2024-08-04T18:47:58.159Z",
+      "amount": "789.25",
+      "merchant": "Bins, Pfannerstill and Hammes",
+      "category": "Industrial"
+    },
+    {
+      "id": "e0d031bc-49ed-4d36-9076-7b775fc3fa2f",
+      "date": "2025-01-20T00:37:49.220Z",
+      "amount": "308.25",
+      "merchant": "Bauch LLC",
+      "category": "Games"
+    },
+    {
+      "id": "299c9ff3-5047-4d5a-a062-3ca74632035d",
+      "date": "2024-04-22T16:12:12.506Z",
+      "amount": "668.60",
+      "merchant": "Lehner and Sons",
+      "category": "Health"
+    },
+    {
+      "id": "fa29d1df-8139-49c3-af6f-3107435fba07",
+      "date": "2024-05-31T21:14:05.892Z",
+      "amount": "965.05",
+      "merchant": "Windler, Ruecker and Collier",
+      "category": "Toys"
+    },
+    {
+      "id": "89d75710-3e04-4ea2-9d90-255d27c4ffc4",
+      "date": "2024-06-30T07:46:38.405Z",
+      "amount": "850.27",
+      "merchant": "Smith LLC",
+      "category": "Toys"
+    },
+    {
+      "id": "873abe67-3161-4164-b5bc-b3e138106a13",
+      "date": "2025-09-02T12:08:25.160Z",
+      "amount": "405.72",
+      "merchant": "Carter, Heaney and Romaguera",
+      "category": "Outdoors"
+    },
+    {
+      "id": "e7f794b1-e030-470c-9cf0-df0359cb5c61",
+      "date": "2024-06-25T21:47:20.563Z",
+      "amount": "631.66",
+      "merchant": "Strosin, Tromp and Mohr",
+      "category": "Outdoors"
+    },
+    {
+      "id": "925ccb96-09ba-461d-8285-e218d738efbf",
+      "date": "2025-06-14T02:37:54.481Z",
+      "amount": "484.09",
+      "merchant": "Witting, Waters and Trantow",
+      "category": "Music"
+    },
+    {
+      "id": "98c02163-6529-4783-93cc-c47eceac49ad",
+      "date": "2024-03-26T02:42:00.496Z",
+      "amount": "149.72",
+      "merchant": "Moore - Doyle",
+      "category": "Tools"
+    },
+    {
+      "id": "8284a0f2-6327-422e-b9ab-d0d9ef1379f5",
+      "date": "2025-09-07T10:09:51.911Z",
+      "amount": "713.55",
+      "merchant": "Dicki, Gibson and Jaskolski",
+      "category": "Computers"
+    },
+    {
+      "id": "299ca279-a2fa-4b7c-be4a-5c91184c5e6c",
+      "date": "2024-10-01T16:42:47.240Z",
+      "amount": "713.14",
+      "merchant": "Franey, Yost and Kuhlman",
+      "category": "Music"
+    },
+    {
+      "id": "8466089e-50c6-4370-8254-86fea9687566",
+      "date": "2024-08-07T13:23:06.568Z",
+      "amount": "456.16",
+      "merchant": "Auer Group",
+      "category": "Clothing"
+    },
+    {
+      "id": "9445ac4d-408c-40ab-ab7e-f7b67777b22f",
+      "date": "2024-12-29T18:06:23.507Z",
+      "amount": "45.57",
+      "merchant": "Bode, Lind and D'Amore",
+      "category": "Tools"
+    },
+    {
+      "id": "8320fc6d-55cc-4ce1-af52-57aefef22a92",
+      "date": "2025-07-04T21:11:02.154Z",
+      "amount": "415.22",
+      "merchant": "McKenzie Group",
+      "category": "Sports"
+    },
+    {
+      "id": "f5eeac83-3e1f-4822-9c3b-780a5540c64e",
+      "date": "2024-04-24T12:13:00.873Z",
+      "amount": "179.43",
+      "merchant": "Kunde - Wunsch",
+      "category": "Shoes"
+    },
+    {
+      "id": "4abba2c8-39ec-45e4-b5a3-d21d0c4e855a",
+      "date": "2024-07-16T09:37:51.407Z",
+      "amount": "196.77",
+      "merchant": "Mitchell, Waters and Keeling",
+      "category": "Automotive"
+    },
+    {
+      "id": "c3969499-f8f4-4496-944a-970deefff05b",
+      "date": "2024-03-28T13:26:06.212Z",
+      "amount": "583.88",
+      "merchant": "Hettinger - Stiedemann",
+      "category": "Health"
+    },
+    {
+      "id": "8341e3b8-0d28-453a-a854-157012163f64",
+      "date": "2025-01-24T15:56:33.683Z",
+      "amount": "984.72",
+      "merchant": "Gleason - Heidenreich",
+      "category": "Electronics"
+    },
+    {
+      "id": "14bdcfa4-cd67-46b0-9b87-bd12886bb151",
+      "date": "2025-08-27T02:28:52.194Z",
+      "amount": "493.28",
+      "merchant": "Armstrong LLC",
+      "category": "Industrial"
+    },
+    {
+      "id": "4f1e10a2-c2e9-4190-b754-e84a0a6f22ac",
+      "date": "2024-12-06T16:18:24.980Z",
+      "amount": "24.06",
+      "merchant": "Abbott Inc",
+      "category": "Tools"
+    },
+    {
+      "id": "c6e3e930-6c25-41fc-9228-c4b9ef41565a",
+      "date": "2024-03-28T00:21:59.134Z",
+      "amount": "484.77",
+      "merchant": "Klein LLC",
+      "category": "Movies"
+    },
+    {
+      "id": "cbf95950-69d1-4627-b763-f68425bf6218",
+      "date": "2024-10-02T05:11:00.315Z",
+      "amount": "545.68",
+      "merchant": "King, Koepp and Paucek",
+      "category": "Movies"
+    },
+    {
+      "id": "a435e3bb-aa32-4794-b84b-006b5139f2f6",
+      "date": "2025-08-31T18:30:53.973Z",
+      "amount": "197.52",
+      "merchant": "Torphy, Mohr and Metz",
+      "category": "Jewelry"
+    },
+    {
+      "id": "9c104e84-dc73-4b7e-a77b-6de432e10903",
+      "date": "2024-11-30T02:46:39.079Z",
+      "amount": "74.33",
+      "merchant": "Kreiger Inc",
+      "category": "Kids"
+    },
+    {
+      "id": "10057129-b938-4785-b022-f386377bf5f4",
+      "date": "2025-07-27T09:03:51.662Z",
+      "amount": "418.01",
+      "merchant": "Crist - Parker",
+      "category": "Kids"
+    },
+    {
+      "id": "dc3e8bc3-adb6-4f8d-b67f-2e8e1d8ea8b3",
+      "date": "2024-10-30T02:04:10.788Z",
+      "amount": "253.14",
+      "merchant": "Leannon, Nienow and Dach",
+      "category": "Movies"
+    },
+    {
+      "id": "f14991cc-11c1-46f4-95f4-f416bb6b6615",
+      "date": "2024-07-04T23:32:29.310Z",
+      "amount": "502.97",
+      "merchant": "Labadie - Dickens",
+      "category": "Beauty"
+    },
+    {
+      "id": "027f63e8-a5a3-4215-9882-8a793851bf99",
+      "date": "2024-11-12T14:46:23.378Z",
+      "amount": "883.30",
+      "merchant": "Rolfson Group",
+      "category": "Computers"
+    },
+    {
+      "id": "f7f55dc8-3bb7-45f7-b661-5209b2fe92b8",
+      "date": "2024-04-18T14:12:11.647Z",
+      "amount": "756.06",
+      "merchant": "Daugherty LLC",
+      "category": "Health"
+    },
+    {
+      "id": "1f076e44-e47e-4d1c-9b4e-de30cc36f0b8",
+      "date": "2025-04-02T03:15:08.870Z",
+      "amount": "950.07",
+      "merchant": "Bode, Ward and Wyman",
+      "category": "Games"
+    },
+    {
+      "id": "d3306c8a-e7ef-4d7f-add7-728387e68969",
+      "date": "2025-07-07T08:48:46.140Z",
+      "amount": "342.85",
+      "merchant": "Schoen LLC",
+      "category": "Books"
+    },
+    {
+      "id": "ef76d7a5-4028-42ca-894d-b7e764627e91",
+      "date": "2024-07-20T07:50:41.656Z",
+      "amount": "839.27",
+      "merchant": "Lueilwitz, Swaniawski and Conroy",
+      "category": "Music"
+    },
+    {
+      "id": "0b3601e4-c204-4474-9c58-788a9fd4d1c3",
+      "date": "2024-04-21T09:01:12.011Z",
+      "amount": "164.46",
+      "merchant": "Bednar Inc",
+      "category": "Sports"
+    },
+    {
+      "id": "7c6b2c26-8d9b-4ff9-b67c-ab98d7a67f3c",
+      "date": "2025-01-27T10:24:11.801Z",
+      "amount": "886.16",
+      "merchant": "Cassin, Lueilwitz and Kreiger",
+      "category": "Sports"
+    },
+    {
+      "id": "e7ec2aee-0310-4e06-afa9-aac494562534",
+      "date": "2024-07-05T07:27:29.279Z",
+      "amount": "621.53",
+      "merchant": "Legros, Ebert and Kuhic",
+      "category": "Grocery"
+    },
+    {
+      "id": "783b4b3f-ea4d-4c50-9af2-0d78202cdc82",
+      "date": "2024-11-12T12:18:48.479Z",
+      "amount": "60.72",
+      "merchant": "Wolff - Rutherford",
+      "category": "Movies"
+    },
+    {
+      "id": "ea317a9a-ce12-469f-9929-d3044bc7b5f7",
+      "date": "2024-07-27T19:26:30.905Z",
+      "amount": "656.92",
+      "merchant": "Renner, Bruen and O'Reilly",
+      "category": "Home"
+    },
+    {
+      "id": "c2b5d213-1381-4e5d-ac0f-622eb34e1ee6",
+      "date": "2025-02-25T11:20:24.416Z",
+      "amount": "858.78",
+      "merchant": "Zieme - Barton",
+      "category": "Outdoors"
+    },
+    {
+      "id": "74c4fe4a-ea0a-4311-9c3e-682d34379616",
+      "date": "2024-06-26T18:33:44.605Z",
+      "amount": "590.47",
+      "merchant": "Gorczany Inc",
+      "category": "Industrial"
+    },
+    {
+      "id": "bf3f7b91-4044-4edf-b40b-1df1459d0d85",
+      "date": "2025-04-12T10:20:49.331Z",
+      "amount": "399.15",
+      "merchant": "Cole and Sons",
+      "category": "Garden"
+    },
+    {
+      "id": "8088f879-6ed0-4923-9aaa-94314f6b10c9",
+      "date": "2024-10-26T12:08:23.966Z",
+      "amount": "39.85",
+      "merchant": "Mante - Stiedemann",
+      "category": "Tools"
+    },
+    {
+      "id": "4c6817c8-80f8-4b81-aa34-5cbf2be83667",
+      "date": "2024-04-27T04:18:09.394Z",
+      "amount": "106.67",
+      "merchant": "McLaughlin - Dietrich",
+      "category": "Home"
+    },
+    {
+      "id": "c53873f1-5a3f-4e7c-8850-df98a73d6568",
+      "date": "2025-04-22T22:12:21.575Z",
+      "amount": "523.39",
+      "merchant": "Mills - Graham",
+      "category": "Clothing"
+    },
+    {
+      "id": "2efb8315-c534-4f88-9398-3f57b3e3d95d",
+      "date": "2025-06-08T11:35:17.862Z",
+      "amount": "397.25",
+      "merchant": "Beer, Graham and Glover",
+      "category": "Tools"
+    },
+    {
+      "id": "86e3b299-6761-4ccd-aa09-059dc4992904",
+      "date": "2025-09-18T04:07:15.376Z",
+      "amount": "956.21",
+      "merchant": "Durgan, Greenholt and Homenick",
+      "category": "Jewelry"
+    },
+    {
+      "id": "8b87c98d-fc2d-4536-8d70-0283a1922ac8",
+      "date": "2025-04-01T19:21:24.313Z",
+      "amount": "215.81",
+      "merchant": "Wiegand, Schaden and Legros",
+      "category": "Computers"
+    },
+    {
+      "id": "0c3b65d0-8a8e-4c17-a6c4-0a0e6b96187a",
+      "date": "2025-06-15T16:27:24.549Z",
+      "amount": "551.22",
+      "merchant": "Olson, Kreiger and Schmeler",
+      "category": "Health"
+    },
+    {
+      "id": "d8027708-6a1c-4834-bbcd-845bc5042cc8",
+      "date": "2025-02-05T11:15:56.186Z",
+      "amount": "931.47",
+      "merchant": "Nikolaus - Abshire",
+      "category": "Baby"
+    },
+    {
+      "id": "57728021-6a08-4060-9dc1-0355ce11d107",
+      "date": "2025-03-08T04:07:26.362Z",
+      "amount": "872.57",
+      "merchant": "Von, Jaskolski and Legros",
+      "category": "Grocery"
+    },
+    {
+      "id": "328ccad1-85ef-4a18-beff-96dc1aec33e4",
+      "date": "2025-01-16T22:24:10.080Z",
+      "amount": "102.57",
+      "merchant": "Bogan - Renner",
+      "category": "Music"
+    },
+    {
+      "id": "801b3ce2-56b4-4af3-b6b7-1928c5d188d7",
+      "date": "2025-03-10T22:11:56.371Z",
+      "amount": "260.03",
+      "merchant": "Cremin, Beatty and Mann",
+      "category": "Kids"
+    },
+    {
+      "id": "95b88124-a264-48e6-9ccb-b89b9f80cb99",
+      "date": "2024-04-28T02:16:08.770Z",
+      "amount": "834.63",
+      "merchant": "Fadel LLC",
+      "category": "Garden"
+    },
+    {
+      "id": "941e4810-d436-4c91-8e7d-6a2963519e28",
+      "date": "2024-12-16T11:00:32.244Z",
+      "amount": "886.84",
+      "merchant": "Cremin, Corkery and Kuhn",
+      "category": "Baby"
+    },
+    {
+      "id": "357f84cd-b72c-4645-9d57-00d1031e0e8a",
+      "date": "2025-08-20T05:52:18.815Z",
+      "amount": "737.39",
+      "merchant": "Huel - Will",
+      "category": "Beauty"
+    },
+    {
+      "id": "e32fece0-a19b-4023-a90e-d5063535735a",
+      "date": "2025-03-11T07:43:43.999Z",
+      "amount": "465.88",
+      "merchant": "Glover - Halvorson",
+      "category": "Baby"
+    },
+    {
+      "id": "051c118f-987f-4b03-9b0a-2722876480b5",
+      "date": "2024-09-09T12:19:46.356Z",
+      "amount": "260.38",
+      "merchant": "Heller - Bednar",
+      "category": "Music"
+    },
+    {
+      "id": "28840952-9cef-41d6-b8bd-25aa8c31bdac",
+      "date": "2024-09-29T00:49:42.807Z",
+      "amount": "976.77",
+      "merchant": "Rohan Inc",
+      "category": "Home"
+    },
+    {
+      "id": "4193388c-04a1-4929-9568-5ad5f8cd12ff",
+      "date": "2025-03-16T06:28:51.319Z",
+      "amount": "741.28",
+      "merchant": "Romaguera, Durgan and Erdman",
+      "category": "Outdoors"
+    },
+    {
+      "id": "645be773-9703-4663-9a26-3893ce3740d9",
+      "date": "2024-04-01T05:55:09.475Z",
+      "amount": "286.61",
+      "merchant": "Bradtke and Sons",
+      "category": "Garden"
+    },
+    {
+      "id": "ff9c1d8a-2abf-47e9-9e5c-7c6f686b7224",
+      "date": "2024-09-28T18:10:25.022Z",
+      "amount": "970.87",
+      "merchant": "Corwin and Sons",
+      "category": "Health"
+    },
+    {
+      "id": "eb7f0f9f-71fb-4e80-be2a-52cd8d7f0e57",
+      "date": "2024-03-26T14:37:54.967Z",
+      "amount": "79.00",
+      "merchant": "Ebert - Ernser",
+      "category": "Tools"
+    },
+    {
+      "id": "234713e8-678e-47f4-a7fe-22ce241b5a59",
+      "date": "2024-08-14T07:21:54.091Z",
+      "amount": "155.03",
+      "merchant": "Koch, Walter and Gusikowski",
+      "category": "Electronics"
+    },
+    {
+      "id": "c6ae1a76-78fd-4318-af2c-d0b99b6ffda5",
+      "date": "2024-10-16T12:48:29.231Z",
+      "amount": "561.44",
+      "merchant": "Dickens and Sons",
+      "category": "Beauty"
+    },
+    {
+      "id": "fc8e2bf7-c3c3-4371-974b-6386f4a37148",
+      "date": "2025-01-23T10:29:14.639Z",
+      "amount": "335.52",
+      "merchant": "Schimmel, Mitchell and Lakin",
+      "category": "Music"
+    },
+    {
+      "id": "58b83a1b-bfad-46f7-80b8-4e3482f4fb74",
+      "date": "2024-10-19T03:27:40.926Z",
+      "amount": "905.10",
+      "merchant": "Towne - Daugherty",
+      "category": "Toys"
+    },
+    {
+      "id": "b7b16eaa-a846-42f3-8d13-2c90d700cf3f",
+      "date": "2025-08-28T21:55:19.966Z",
+      "amount": "467.85",
+      "merchant": "Sporer, Kunde and Flatley",
+      "category": "Baby"
+    },
+    {
+      "id": "67a6d76c-3988-42b9-9c28-f69831120552",
+      "date": "2025-04-30T00:07:38.817Z",
+      "amount": "383.15",
+      "merchant": "McGlynn, Feeney and Watsica",
+      "category": "Electronics"
+    },
+    {
+      "id": "4e255fcf-d8a3-4aa4-9e91-fde469c79d17",
+      "date": "2025-06-21T08:48:22.209Z",
+      "amount": "774.87",
+      "merchant": "Shanahan Inc",
+      "category": "Movies"
+    },
+    {
+      "id": "90325b10-92c6-41e0-b271-5b2c34df184a",
+      "date": "2024-08-21T17:46:14.111Z",
+      "amount": "137.28",
+      "merchant": "Hayes Inc",
+      "category": "Movies"
+    },
+    {
+      "id": "17043242-a7ac-4db6-b758-85046fcbf170",
+      "date": "2025-07-06T21:53:17.801Z",
+      "amount": "548.33",
+      "merchant": "Boyle - Walsh",
+      "category": "Beauty"
+    },
+    {
+      "id": "7d77df49-aeaf-45c9-940e-b09fe3873748",
+      "date": "2025-03-07T19:50:27.963Z",
+      "amount": "60.15",
+      "merchant": "Von Group",
+      "category": "Jewelry"
+    },
+    {
+      "id": "706148f3-56cb-4778-a56e-ffadfb43a028",
+      "date": "2024-09-09T16:18:05.622Z",
+      "amount": "666.05",
+      "merchant": "Prohaska, Auer and Greenfelder",
+      "category": "Toys"
+    },
+    {
+      "id": "24b8f20c-9fdd-48a6-9ea7-a736ff8d4e30",
+      "date": "2024-10-08T13:51:03.441Z",
+      "amount": "941.36",
+      "merchant": "Labadie Inc",
+      "category": "Baby"
+    },
+    {
+      "id": "af32c865-71ed-4418-8ca9-11fda9dbc15a",
+      "date": "2025-05-13T17:31:20.105Z",
+      "amount": "974.94",
+      "merchant": "Lindgren, Windler and Rice",
+      "category": "Jewelry"
+    },
+    {
+      "id": "d531a105-b0a0-48dd-bc2f-cc1880f4c72a",
+      "date": "2025-07-06T23:34:13.941Z",
+      "amount": "295.43",
+      "merchant": "Jacobi, Harber and Morissette",
+      "category": "Electronics"
+    },
+    {
+      "id": "223a3c5c-d0f5-4e20-98cd-0ad223f55c18",
+      "date": "2025-04-02T17:55:59.465Z",
+      "amount": "328.84",
+      "merchant": "Willms - Braun",
+      "category": "Movies"
+    },
+    {
+      "id": "6faf5edd-b1b2-404f-b45c-ca65cf0664d3",
+      "date": "2025-08-22T22:09:36.625Z",
+      "amount": "190.75",
+      "merchant": "Torphy, Kling and Walsh",
+      "category": "Books"
+    },
+    {
+      "id": "de574fc9-6eb6-417f-8d4f-47d44c7384c3",
+      "date": "2024-08-22T18:12:33.201Z",
+      "amount": "792.04",
+      "merchant": "Krajcik - Mohr",
+      "category": "Home"
+    },
+    {
+      "id": "4cac1525-da83-4cf2-b3a0-8aa15d3bd81f",
+      "date": "2025-01-02T16:53:45.726Z",
+      "amount": "315.56",
+      "merchant": "Carter, Bauch and Rogahn",
+      "category": "Movies"
+    },
+    {
+      "id": "c103ee66-8271-4780-b358-c65c579601ce",
+      "date": "2024-12-13T10:54:57.230Z",
+      "amount": "756.12",
+      "merchant": "Kilback, Will and King",
+      "category": "Garden"
+    },
+    {
+      "id": "6ef30630-75d7-4ddf-be9f-125137dc9806",
+      "date": "2024-12-18T10:50:44.435Z",
+      "amount": "143.14",
+      "merchant": "Batz - Walker",
+      "category": "Health"
+    },
+    {
+      "id": "d9c0fdaa-b278-4655-80a1-564d8da53f38",
+      "date": "2024-08-23T15:08:31.150Z",
+      "amount": "910.07",
+      "merchant": "Kunde, Harris and Larkin",
+      "category": "Baby"
+    },
+    {
+      "id": "5a21b8f7-1fdf-4107-aa17-ab57e25922a1",
+      "date": "2024-07-23T15:33:26.831Z",
+      "amount": "256.39",
+      "merchant": "Dietrich - Schaden",
+      "category": "Industrial"
+    },
+    {
+      "id": "2408593b-b3a7-49d6-b1b3-4e0743d83bca",
+      "date": "2024-08-27T12:13:05.115Z",
+      "amount": "157.85",
+      "merchant": "Ortiz, Ratke and Cremin",
+      "category": "Tools"
+    },
+    {
+      "id": "6b2bddf4-018d-4e6b-86e9-2789950a7279",
+      "date": "2025-08-23T02:13:08.306Z",
+      "amount": "914.25",
+      "merchant": "Kuvalis and Sons",
+      "category": "Beauty"
+    },
+    {
+      "id": "30924cd0-3040-4a68-b6b4-f91ed89c699d",
+      "date": "2024-04-16T19:14:44.237Z",
+      "amount": "314.49",
+      "merchant": "Gottlieb, VonRueden and Crona",
+      "category": "Computers"
+    },
+    {
+      "id": "acaa71d5-4199-4286-9408-d456db672870",
+      "date": "2024-05-12T23:48:39.307Z",
+      "amount": "651.04",
+      "merchant": "Schaden, Turcotte and Kris",
+      "category": "Jewelry"
+    },
+    {
+      "id": "6d0e0dc9-0702-4079-ba19-48771ca68639",
+      "date": "2024-12-21T17:33:30.331Z",
+      "amount": "254.42",
+      "merchant": "Toy and Sons",
+      "category": "Tools"
+    },
+    {
+      "id": "4ad9d88c-9ed2-4c7b-ae9c-79e418a9855c",
+      "date": "2024-12-09T11:43:00.830Z",
+      "amount": "95.46",
+      "merchant": "Dooley, Labadie and Satterfield",
+      "category": "Music"
+    },
+    {
+      "id": "81b70587-4d9b-4e56-96ff-8574c35292d5",
+      "date": "2025-05-29T01:04:08.311Z",
+      "amount": "273.22",
+      "merchant": "Lakin - Grady",
+      "category": "Grocery"
+    },
+    {
+      "id": "e6d57fac-ee31-4326-8938-c3a407ba0389",
+      "date": "2024-04-04T17:53:38.877Z",
+      "amount": "352.24",
+      "merchant": "Witting Inc",
+      "category": "Automotive"
+    },
+    {
+      "id": "dc10ab83-4c73-4ac4-afed-1715f4b19342",
+      "date": "2024-12-12T05:44:26.924Z",
+      "amount": "971.68",
+      "merchant": "Koepp and Sons",
+      "category": "Beauty"
+    },
+    {
+      "id": "5a63cc65-4f4a-4e32-8534-8cf04461cd1e",
+      "date": "2025-07-05T22:24:45.539Z",
+      "amount": "466.71",
+      "merchant": "Sanford and Sons",
+      "category": "Computers"
+    },
+    {
+      "id": "10988a43-951a-437f-b4c0-3f06f49d8ce8",
+      "date": "2024-08-09T21:03:26.726Z",
+      "amount": "329.77",
+      "merchant": "Huels Group",
+      "category": "Grocery"
+    },
+    {
+      "id": "4437e1de-8cb8-4f9e-bbca-d19a5fe5845b",
+      "date": "2025-06-19T06:14:18.141Z",
+      "amount": "271.15",
+      "merchant": "Bins, Orn and Ebert",
+      "category": "Shoes"
+    },
+    {
+      "id": "1678c581-dd80-4861-b587-a44598402ecd",
+      "date": "2024-04-19T12:16:35.433Z",
+      "amount": "840.91",
+      "merchant": "Donnelly - Jacobs",
+      "category": "Garden"
+    },
+    {
+      "id": "b6bbb9bf-2c0e-4a96-af31-caf71f9c40bc",
+      "date": "2025-08-18T00:10:56.006Z",
+      "amount": "367.48",
+      "merchant": "Koepp Group",
+      "category": "Beauty"
+    },
+    {
+      "id": "5eaba5e7-df97-4f19-8b2e-34ff97e3035b",
+      "date": "2024-10-29T13:41:29.400Z",
+      "amount": "446.85",
+      "merchant": "Rosenbaum and Sons",
+      "category": "Games"
+    },
+    {
+      "id": "f3479154-17b4-4132-a119-aacf828c0934",
+      "date": "2025-07-19T20:40:44.042Z",
+      "amount": "552.97",
+      "merchant": "Rodriguez and Sons",
+      "category": "Jewelry"
+    },
+    {
+      "id": "fb600d68-f90f-4a63-87a2-be8e1403ba14",
+      "date": "2024-03-26T16:24:51.356Z",
+      "amount": "650.43",
+      "merchant": "Paucek Inc",
+      "category": "Computers"
+    },
+    {
+      "id": "b2c56753-ba03-4bb7-bbde-dc00250c4507",
+      "date": "2025-03-13T19:41:25.231Z",
+      "amount": "343.50",
+      "merchant": "Schaden - Cruickshank",
+      "category": "Shoes"
+    },
+    {
+      "id": "7162d044-120a-4042-8138-8b9f5836f330",
+      "date": "2025-01-01T19:27:35.033Z",
+      "amount": "384.16",
+      "merchant": "Bailey - Leffler",
+      "category": "Garden"
+    },
+    {
+      "id": "28ddbb58-56b0-4603-b3d9-f1dd152d0da6",
+      "date": "2024-09-16T12:56:48.635Z",
+      "amount": "148.95",
+      "merchant": "Robel and Sons",
+      "category": "Grocery"
+    },
+    {
+      "id": "eb5314bb-684d-47a3-baa1-78e84b06fa97",
+      "date": "2024-05-27T01:30:53.790Z",
+      "amount": "966.31",
+      "merchant": "Terry - Tromp",
+      "category": "Automotive"
+    },
+    {
+      "id": "e1982e16-6b24-414c-87db-85dc053d57f7",
+      "date": "2025-07-27T07:42:20.374Z",
+      "amount": "230.45",
+      "merchant": "Heller - Keebler",
+      "category": "Baby"
+    },
+    {
+      "id": "e8f4e403-123f-42da-924e-3d3e52bc2e15",
+      "date": "2025-02-24T03:49:33.961Z",
+      "amount": "36.19",
+      "merchant": "Herman, Lakin and Kessler",
+      "category": "Movies"
+    },
+    {
+      "id": "916b4326-90f2-4faf-8feb-ab58298922ff",
+      "date": "2024-04-18T00:26:21.827Z",
+      "amount": "725.77",
+      "merchant": "O'Reilly - Murphy",
+      "category": "Books"
+    },
+    {
+      "id": "76ef8d51-4290-4923-84b3-2bfbb00ca5e9",
+      "date": "2024-07-25T23:53:58.294Z",
+      "amount": "377.96",
+      "merchant": "Ruecker Inc",
+      "category": "Kids"
+    },
+    {
+      "id": "18e694bf-f337-410e-8c44-5345f383df16",
+      "date": "2024-03-28T21:25:58.628Z",
+      "amount": "950.11",
+      "merchant": "Morissette, Kilback and Stoltenberg",
+      "category": "Electronics"
+    },
+    {
+      "id": "ac4f61f2-b4b5-4653-a63e-43bee9372367",
+      "date": "2025-01-18T11:32:26.384Z",
+      "amount": "594.60",
+      "merchant": "Schultz - Bernier",
+      "category": "Jewelry"
+    },
+    {
+      "id": "962cca3f-aee7-44d6-8bc1-72c2a2f2e17d",
+      "date": "2025-09-03T14:23:36.460Z",
+      "amount": "850.68",
+      "merchant": "Baumbach - Gottlieb",
+      "category": "Sports"
+    },
+    {
+      "id": "82a21ae3-64a1-4ff2-aba9-c18f72af61ee",
+      "date": "2025-08-06T18:03:24.418Z",
+      "amount": "468.69",
+      "merchant": "Glover - Braun",
+      "category": "Sports"
+    },
+    {
+      "id": "a1a6b305-5c2e-4468-ab7d-5d4a8cafe122",
+      "date": "2024-10-24T21:28:56.712Z",
+      "amount": "384.27",
+      "merchant": "Koepp - Beer",
+      "category": "Jewelry"
+    },
+    {
+      "id": "3c52944e-a0b4-4176-9229-bbd59bc6fa62",
+      "date": "2024-09-04T12:29:32.684Z",
+      "amount": "200.55",
+      "merchant": "Boyle, Koelpin and Miller",
+      "category": "Electronics"
+    },
+    {
+      "id": "93878384-06cd-46d0-af75-fd98eb3adc27",
+      "date": "2025-01-31T23:21:15.922Z",
+      "amount": "986.53",
+      "merchant": "Kub - Macejkovic",
+      "category": "Beauty"
+    },
+    {
+      "id": "11f36946-73a5-477f-a317-4f786ec3ee86",
+      "date": "2024-10-02T01:17:44.027Z",
+      "amount": "699.04",
+      "merchant": "Stiedemann Group",
+      "category": "Movies"
+    },
+    {
+      "id": "c2eb60ad-5617-4cf5-b01f-e2bf98c06e5e",
+      "date": "2025-08-02T04:21:54.220Z",
+      "amount": "115.13",
+      "merchant": "Runolfsson and Sons",
+      "category": "Music"
+    },
+    {
+      "id": "bdcbafc3-381f-4974-b37d-10f45635ec4d",
+      "date": "2025-05-18T11:02:53.414Z",
+      "amount": "343.53",
+      "merchant": "Harris, Mayer and Hermiston",
+      "category": "Jewelry"
+    },
+    {
+      "id": "5e4091dc-fa8e-4473-a28e-f9f10f92c55b",
+      "date": "2025-05-25T21:07:18.880Z",
+      "amount": "596.13",
+      "merchant": "Quitzon Inc",
+      "category": "Tools"
+    },
+    {
+      "id": "f046d44c-3fe0-4c3d-973d-2da5608180bb",
+      "date": "2025-06-26T00:28:37.482Z",
+      "amount": "300.09",
+      "merchant": "Muller, Boehm and Parisian",
+      "category": "Baby"
+    },
+    {
+      "id": "5ce2b07c-c341-434e-86e8-e33aa8df2c1b",
+      "date": "2025-04-01T19:00:54.262Z",
+      "amount": "559.66",
+      "merchant": "O'Keefe, Langosh and Barrows",
+      "category": "Books"
+    },
+    {
+      "id": "7e5974f0-442b-4a80-b506-98b6bde6b545",
+      "date": "2025-03-17T12:01:20.431Z",
+      "amount": "122.67",
+      "merchant": "Schroeder, Dickens and O'Kon",
+      "category": "Sports"
+    },
+    {
+      "id": "20db9362-ae34-4b76-8cd0-543ab1dafa83",
+      "date": "2025-02-27T01:24:36.567Z",
+      "amount": "902.61",
+      "merchant": "Champlin, Roberts and Block",
+      "category": "Shoes"
+    },
+    {
+      "id": "1809f9c0-ac6d-4851-9b48-304bf909a473",
+      "date": "2025-02-20T04:42:58.818Z",
+      "amount": "950.81",
+      "merchant": "Effertz, White and Wisoky",
+      "category": "Toys"
+    },
+    {
+      "id": "a7342ad4-36b0-46cb-bc64-6165209bedc2",
+      "date": "2024-05-17T05:19:06.307Z",
+      "amount": "746.88",
+      "merchant": "Flatley Group",
+      "category": "Electronics"
+    },
+    {
+      "id": "5c62c4fe-3f81-432f-89a9-f54357c161c1",
+      "date": "2025-08-26T04:25:53.779Z",
+      "amount": "523.14",
+      "merchant": "Skiles - Hilll",
+      "category": "Games"
+    },
+    {
+      "id": "eb82a3cf-047e-40c2-84eb-ff77a335c497",
+      "date": "2024-05-26T21:25:20.516Z",
+      "amount": "448.05",
+      "merchant": "Sipes LLC",
+      "category": "Tools"
+    },
+    {
+      "id": "b3408c6d-787b-4727-b533-254211b99c83",
+      "date": "2024-10-31T07:17:40.788Z",
+      "amount": "771.16",
+      "merchant": "Zulauf - Kirlin",
+      "category": "Automotive"
+    },
+    {
+      "id": "50e47afc-9759-45a7-991e-9aed7aed29ba",
+      "date": "2025-08-29T19:24:32.793Z",
+      "amount": "547.47",
+      "merchant": "McCullough - Bechtelar",
+      "category": "Music"
+    },
+    {
+      "id": "a3f71f7d-b2ba-45e3-bd9f-191e672fe404",
+      "date": "2025-02-27T20:16:40.869Z",
+      "amount": "351.34",
+      "merchant": "Doyle Group",
+      "category": "Toys"
+    },
+    {
+      "id": "879eb200-d249-4994-8325-1734d53849de",
+      "date": "2025-02-20T01:28:33.300Z",
+      "amount": "531.81",
+      "merchant": "Cole Group",
+      "category": "Home"
+    },
+    {
+      "id": "f2653507-3819-48e3-b586-06957f9a0a53",
+      "date": "2025-07-16T06:04:57.691Z",
+      "amount": "282.54",
+      "merchant": "Bahringer Group",
+      "category": "Beauty"
+    },
+    {
+      "id": "a77b9e14-e8db-4b94-bfa0-f3cc33eafc7c",
+      "date": "2024-09-15T13:12:49.277Z",
+      "amount": "240.73",
+      "merchant": "Heathcote Group",
+      "category": "Kids"
+    },
+    {
+      "id": "809d1308-746a-41f2-94c3-3978278a6c74",
+      "date": "2024-07-16T18:09:12.004Z",
+      "amount": "232.36",
+      "merchant": "Bayer - Ratke",
+      "category": "Automotive"
+    },
+    {
+      "id": "bca3ddf9-c2af-41e8-8712-cf0525f7e226",
+      "date": "2025-07-06T08:17:05.794Z",
+      "amount": "663.26",
+      "merchant": "Bogisich Group",
+      "category": "Jewelry"
+    },
+    {
+      "id": "c2dd8bb7-c03f-4a5e-ae45-a1fb02d6b15a",
+      "date": "2024-09-27T19:48:18.413Z",
+      "amount": "467.20",
+      "merchant": "Klein - Feeney",
+      "category": "Computers"
+    },
+    {
+      "id": "4a4db8b9-fe4d-4edf-af04-4b3e705811d8",
+      "date": "2024-05-27T06:16:29.549Z",
+      "amount": "660.97",
+      "merchant": "Dach, Rowe and Gutmann",
+      "category": "Tools"
+    },
+    {
+      "id": "bc5c0280-1134-4bd9-b6ee-b7514603c22b",
+      "date": "2024-07-27T17:16:19.421Z",
+      "amount": "8.02",
+      "merchant": "Rowe and Sons",
+      "category": "Books"
+    },
+    {
+      "id": "1233e04b-371a-4712-9e9e-487ae18a5640",
+      "date": "2025-02-10T07:59:05.930Z",
+      "amount": "753.22",
+      "merchant": "Nitzsche - Durgan",
+      "category": "Industrial"
+    },
+    {
+      "id": "6b3483d4-ce66-4d51-bd12-01b3da74d7ce",
+      "date": "2024-07-05T13:39:01.967Z",
+      "amount": "209.73",
+      "merchant": "Huels LLC",
+      "category": "Health"
+    },
+    {
+      "id": "332aecd3-fea6-4c56-84fa-2754a3da1fd1",
+      "date": "2025-02-11T16:48:20.114Z",
+      "amount": "435.30",
+      "merchant": "Stoltenberg, Hartmann and Herman",
+      "category": "Kids"
+    },
+    {
+      "id": "52f366f8-7103-4729-96b9-092df6f6f4bc",
+      "date": "2025-04-26T12:19:57.209Z",
+      "amount": "956.48",
+      "merchant": "Hoppe - Ritchie",
+      "category": "Clothing"
+    },
+    {
+      "id": "43a3e0ba-3373-4522-9a8b-3f4a084c4c2a",
+      "date": "2024-10-05T15:05:08.254Z",
+      "amount": "935.31",
+      "merchant": "McKenzie, Lehner and Prohaska",
+      "category": "Home"
+    },
+    {
+      "id": "7f8f8ab1-7162-494a-8b21-cc5793108def",
+      "date": "2024-06-12T15:22:33.258Z",
+      "amount": "585.53",
+      "merchant": "Paucek, Crooks and Hauck",
+      "category": "Outdoors"
+    },
+    {
+      "id": "8b9d69be-62f6-4080-9e03-af9e0058c729",
+      "date": "2024-10-25T14:46:30.133Z",
+      "amount": "634.69",
+      "merchant": "Buckridge, Baumbach and Auer",
+      "category": "Automotive"
+    },
+    {
+      "id": "9d6e231c-366e-4d63-a189-d63396706032",
+      "date": "2025-08-23T02:29:31.959Z",
+      "amount": "928.45",
+      "merchant": "McDermott Inc",
+      "category": "Tools"
+    },
+    {
+      "id": "f7b2f140-1c04-49a1-8c14-a3ec90ffa93b",
+      "date": "2025-04-14T11:45:15.968Z",
+      "amount": "121.39",
+      "merchant": "Hermann Inc",
+      "category": "Jewelry"
+    },
+    {
+      "id": "5ad192da-7b07-40b3-b00b-65759bf3a5ce",
+      "date": "2024-08-11T21:57:10.361Z",
+      "amount": "485.50",
+      "merchant": "Kihn - McDermott",
+      "category": "Clothing"
+    },
+    {
+      "id": "a5b97a9d-ff6a-4000-aaf4-b44a76b17cd7",
+      "date": "2024-11-18T05:59:19.062Z",
+      "amount": "465.48",
+      "merchant": "Cartwright, Collier and Adams",
+      "category": "Health"
+    },
+    {
+      "id": "9b301678-9215-4e8b-ae1b-95cf20a1c88e",
+      "date": "2025-02-07T20:04:59.909Z",
+      "amount": "798.07",
+      "merchant": "Ratke, Nader and Raynor",
+      "category": "Electronics"
+    },
+    {
+      "id": "1acbb33f-e04f-4b26-8753-77c92113cace",
+      "date": "2024-09-08T12:58:11.042Z",
+      "amount": "378.13",
+      "merchant": "Dietrich, Nitzsche and Rau",
+      "category": "Jewelry"
+    },
+    {
+      "id": "cb0eac10-3ead-415f-8bbb-dce831fa6132",
+      "date": "2024-09-02T12:10:53.878Z",
+      "amount": "525.08",
+      "merchant": "Gerlach, Prosacco and Barton",
+      "category": "Books"
+    },
+    {
+      "id": "5c6bcde9-a399-4f1b-a8c6-13a0b1efc6d1",
+      "date": "2024-08-22T00:15:13.871Z",
+      "amount": "562.48",
+      "merchant": "Gulgowski and Sons",
+      "category": "Jewelry"
+    },
+    {
+      "id": "6756d6af-b476-4a9e-94c0-1576f9a906ee",
+      "date": "2024-05-13T09:42:14.032Z",
+      "amount": "822.92",
+      "merchant": "Schumm - Zieme",
+      "category": "Automotive"
+    },
+    {
+      "id": "b4cddb86-975b-4b6f-bfd1-c3510ffd67b9",
+      "date": "2024-11-20T16:45:34.514Z",
+      "amount": "825.98",
+      "merchant": "Daugherty Group",
+      "category": "Beauty"
+    },
+    {
+      "id": "838a682d-29fa-4f4c-a889-f82f092a1896",
+      "date": "2024-06-09T07:59:42.360Z",
+      "amount": "575.76",
+      "merchant": "Murphy, Kris and Gutkowski",
+      "category": "Clothing"
+    },
+    {
+      "id": "f4efed9a-baae-4163-a1ee-893da02218d1",
+      "date": "2025-09-03T07:46:24.955Z",
+      "amount": "731.53",
+      "merchant": "Crona and Sons",
+      "category": "Shoes"
+    },
+    {
+      "id": "2bdfb20b-42f6-4fb5-9125-31629ae13d76",
+      "date": "2025-07-29T05:01:57.817Z",
+      "amount": "234.75",
+      "merchant": "Streich and Sons",
+      "category": "Jewelry"
+    },
+    {
+      "id": "82126eb7-c742-47f7-8bc7-aa9e7ecdcef1",
+      "date": "2024-10-09T03:12:40.034Z",
+      "amount": "394.79",
+      "merchant": "Schumm LLC",
+      "category": "Toys"
+    },
+    {
+      "id": "d202e9a2-2519-4449-9a56-bf4d8c004f53",
+      "date": "2025-01-17T00:20:37.286Z",
+      "amount": "592.14",
+      "merchant": "Grady, Parker and Weissnat",
+      "category": "Kids"
+    },
+    {
+      "id": "9628e4b5-5b42-426f-8cd2-3c7263022f7d",
+      "date": "2024-07-22T05:45:58.053Z",
+      "amount": "61.96",
+      "merchant": "Klocko Group",
+      "category": "Outdoors"
+    },
+    {
+      "id": "7455a7d4-ef88-4efb-9dba-43a5ead545db",
+      "date": "2025-04-16T18:04:59.138Z",
+      "amount": "300.56",
+      "merchant": "Volkman Inc",
+      "category": "Baby"
+    },
+    {
+      "id": "4e11df44-6b66-47df-9049-447871fbef00",
+      "date": "2025-09-10T21:02:57.143Z",
+      "amount": "423.96",
+      "merchant": "Goyette, Rau and Daugherty",
+      "category": "Outdoors"
+    },
+    {
+      "id": "0a548e94-1446-4e49-8d32-e38b02e3197b",
+      "date": "2024-09-11T08:17:58.906Z",
+      "amount": "941.30",
+      "merchant": "Wilderman Group",
+      "category": "Industrial"
+    },
+    {
+      "id": "3413737d-30ec-4be2-b653-3d6a5dc85f76",
+      "date": "2025-01-14T23:28:24.659Z",
+      "amount": "835.28",
+      "merchant": "Heidenreich - Haley",
+      "category": "Health"
+    },
+    {
+      "id": "6afc80a7-7530-4107-b288-c84bf9d3de1d",
+      "date": "2024-10-31T22:35:42.191Z",
+      "amount": "611.41",
+      "merchant": "Herzog and Sons",
+      "category": "Sports"
+    },
+    {
+      "id": "da863c48-b93d-48c7-9ea3-777f81ca9266",
+      "date": "2025-03-03T14:55:45.530Z",
+      "amount": "503.91",
+      "merchant": "Hoeger - Jones",
+      "category": "Sports"
+    },
+    {
+      "id": "d522a967-9dc3-4efe-b594-7dc54d621008",
+      "date": "2024-09-28T18:25:55.835Z",
+      "amount": "92.10",
+      "merchant": "Pacocha - Ankunding",
+      "category": "Baby"
+    },
+    {
+      "id": "55898dde-e370-47e7-ad77-41065c2fe5fb",
+      "date": "2025-07-09T09:10:00.834Z",
+      "amount": "678.47",
+      "merchant": "Medhurst - Borer",
+      "category": "Industrial"
+    },
+    {
+      "id": "32f9c0db-7e85-4142-833e-ffe79e9e8a47",
+      "date": "2024-12-18T17:50:36.740Z",
+      "amount": "497.94",
+      "merchant": "Emmerich - Rogahn",
+      "category": "Kids"
+    },
+    {
+      "id": "a42d6181-b7dd-4ede-abaa-eee063ed95a5",
+      "date": "2025-03-06T18:33:29.113Z",
+      "amount": "273.32",
+      "merchant": "Haley Inc",
+      "category": "Electronics"
+    },
+    {
+      "id": "70a26e78-333a-4663-80cb-0a10f322afc1",
+      "date": "2024-06-16T11:39:54.151Z",
+      "amount": "431.30",
+      "merchant": "Kuhlman, Jacobs and Beahan",
+      "category": "Outdoors"
+    },
+    {
+      "id": "de083443-9be7-4d53-8424-55ba1f14fba7",
+      "date": "2024-12-05T11:20:36.323Z",
+      "amount": "496.76",
+      "merchant": "Grady - Volkman",
+      "category": "Shoes"
+    },
+    {
+      "id": "6b51b038-7c81-45a8-97be-185e9ebe3f1d",
+      "date": "2024-10-29T17:36:00.432Z",
+      "amount": "652.48",
+      "merchant": "Bogan LLC",
+      "category": "Movies"
+    },
+    {
+      "id": "24ee2979-d925-4b55-95fd-4037755949e5",
+      "date": "2024-12-31T07:43:00.328Z",
+      "amount": "907.78",
+      "merchant": "Adams Group",
+      "category": "Games"
+    },
+    {
+      "id": "bf2503b2-2997-4dc0-be4a-5fb94d163b57",
+      "date": "2025-07-12T10:55:54.030Z",
+      "amount": "164.10",
+      "merchant": "Pacocha, Wiegand and Koss",
+      "category": "Games"
+    },
+    {
+      "id": "90b1d92c-3df5-4c0d-aba6-d818c4a419ae",
+      "date": "2025-02-03T17:13:43.127Z",
+      "amount": "982.94",
+      "merchant": "Hudson - Yundt",
+      "category": "Games"
+    },
+    {
+      "id": "64e69968-a3fd-41f7-9625-16e50b46bb7a",
+      "date": "2024-08-01T20:26:18.801Z",
+      "amount": "262.00",
+      "merchant": "Tremblay - Kutch",
+      "category": "Kids"
+    },
+    {
+      "id": "897ec171-51cb-43e7-9e8f-6016a70a62d9",
+      "date": "2024-11-30T18:22:40.856Z",
+      "amount": "7.20",
+      "merchant": "Ullrich, Watsica and Feeney",
+      "category": "Music"
+    },
+    {
+      "id": "13225be2-e572-48c7-a2af-7c4bb8e043bc",
+      "date": "2024-11-12T22:08:11.837Z",
+      "amount": "200.18",
+      "merchant": "Mayer, Lemke and Osinski",
+      "category": "Grocery"
+    },
+    {
+      "id": "a042d8fb-3919-4ea3-9f03-1b2b066c5f51",
+      "date": "2025-01-19T21:10:15.904Z",
+      "amount": "620.62",
+      "merchant": "Bernhard and Sons",
+      "category": "Kids"
+    },
+    {
+      "id": "9e5e122c-c7ad-4c02-8a92-5f2042a71d1d",
+      "date": "2024-04-14T00:01:18.205Z",
+      "amount": "47.35",
+      "merchant": "O'Keefe - Nolan",
+      "category": "Tools"
+    },
+    {
+      "id": "d8432d08-69e0-4578-9a19-c6c4fc63960b",
+      "date": "2025-08-09T20:31:53.117Z",
+      "amount": "548.55",
+      "merchant": "Cummerata - Wiegand",
+      "category": "Automotive"
+    },
+    {
+      "id": "cfa4e3d9-2fd7-46b1-811f-c31abb90f03b",
+      "date": "2024-08-23T08:30:20.100Z",
+      "amount": "205.69",
+      "merchant": "Will LLC",
+      "category": "Toys"
+    },
+    {
+      "id": "9ad65ec9-d5eb-4a6f-b829-6eae22f6df3c",
+      "date": "2024-08-27T15:58:11.360Z",
+      "amount": "466.81",
+      "merchant": "Ortiz - Emard",
+      "category": "Toys"
+    },
+    {
+      "id": "f47ff815-a77a-4a5e-90fa-5d2f0ae6320e",
+      "date": "2024-05-26T12:07:08.659Z",
+      "amount": "227.00",
+      "merchant": "Schinner Group",
+      "category": "Sports"
+    },
+    {
+      "id": "59053df2-7b5d-4392-83d1-83c9ebcc1376",
+      "date": "2024-12-16T08:46:18.344Z",
+      "amount": "761.98",
+      "merchant": "Jast, Hane and Green",
+      "category": "Shoes"
+    },
+    {
+      "id": "a66ae1f1-552e-464b-85e9-f7eaf62a2710",
+      "date": "2024-10-18T14:44:29.685Z",
+      "amount": "777.10",
+      "merchant": "Tromp, Purdy and McCullough",
+      "category": "Baby"
+    },
+    {
+      "id": "b0d512b0-dd3e-42db-a402-32eac2ba85c0",
+      "date": "2025-02-11T13:51:46.608Z",
+      "amount": "825.24",
+      "merchant": "Zieme, Parisian and Pagac",
+      "category": "Music"
+    },
+    {
+      "id": "64430225-edd0-49a7-bf18-657ebf815a73",
+      "date": "2025-04-08T01:00:08.706Z",
+      "amount": "256.47",
+      "merchant": "Cassin and Sons",
+      "category": "Clothing"
+    },
+    {
+      "id": "e6c0d74a-68a0-4fa1-adfa-d6dafcca2918",
+      "date": "2025-09-13T07:30:11.121Z",
+      "amount": "631.28",
+      "merchant": "Larkin, Schoen and O'Reilly",
+      "category": "Music"
+    },
+    {
+      "id": "a917cb06-bb96-4815-bee1-423ec1ac29d4",
+      "date": "2025-04-08T09:23:43.250Z",
+      "amount": "967.01",
+      "merchant": "Skiles and Sons",
+      "category": "Music"
+    },
+    {
+      "id": "dc077925-068f-42a1-9f42-92fe0c697ce1",
+      "date": "2024-12-25T10:05:15.224Z",
+      "amount": "65.67",
+      "merchant": "Brakus and Sons",
+      "category": "Computers"
+    },
+    {
+      "id": "60573afe-a226-48c9-9ba6-6f32a914624d",
+      "date": "2025-01-12T11:42:46.093Z",
+      "amount": "770.88",
+      "merchant": "Doyle, Weimann and Flatley",
+      "category": "Sports"
+    },
+    {
+      "id": "8e6fd6f9-e8f8-4841-8a29-a50d7d95bbed",
+      "date": "2025-06-24T02:30:10.132Z",
+      "amount": "880.30",
+      "merchant": "Dietrich Group",
+      "category": "Beauty"
+    },
+    {
+      "id": "0fe0055d-a233-4083-9723-222d6b661758",
+      "date": "2025-05-01T15:19:49.585Z",
+      "amount": "180.67",
+      "merchant": "Gorczany, Emard and Senger",
+      "category": "Clothing"
+    },
+    {
+      "id": "c330e800-43d0-42c7-aeb5-2a158e64a3a1",
+      "date": "2025-08-30T23:12:26.423Z",
+      "amount": "887.90",
+      "merchant": "Tremblay - O'Conner",
+      "category": "Automotive"
+    },
+    {
+      "id": "c33ee137-5318-47bf-b890-2a37adf5c54b",
+      "date": "2024-04-14T05:16:17.555Z",
+      "amount": "171.16",
+      "merchant": "Koelpin, Franecki and Kihn",
+      "category": "Movies"
+    },
+    {
+      "id": "6aeecfc0-db0f-4c30-b8a2-9407a6fee2b3",
+      "date": "2024-06-27T06:44:03.288Z",
+      "amount": "774.13",
+      "merchant": "Kessler Group",
+      "category": "Industrial"
+    },
+    {
+      "id": "c0a92005-6848-4368-ad60-ed48ec100fe7",
+      "date": "2024-09-08T17:36:32.242Z",
+      "amount": "195.31",
+      "merchant": "Quitzon and Sons",
+      "category": "Sports"
+    },
+    {
+      "id": "e2d86a18-caaa-4557-bac5-6de593b32dfc",
+      "date": "2024-06-26T23:29:44.997Z",
+      "amount": "553.81",
+      "merchant": "Haag, Runolfsdottir and Pfannerstill",
+      "category": "Industrial"
+    },
+    {
+      "id": "a3e380f0-d16f-4a48-b641-aceb7cd4b86e",
+      "date": "2024-10-10T10:19:04.622Z",
+      "amount": "155.33",
+      "merchant": "Monahan and Sons",
+      "category": "Sports"
+    },
+    {
+      "id": "b1f25d58-3af8-4fed-a97f-a75407f2feef",
+      "date": "2025-06-29T14:28:42.166Z",
+      "amount": "519.33",
+      "merchant": "Buckridge, Hayes and Bosco",
+      "category": "Automotive"
+    },
+    {
+      "id": "ba29a6a0-1872-422a-8f8f-49a3f62ba69c",
+      "date": "2024-11-16T10:14:44.365Z",
+      "amount": "660.32",
+      "merchant": "Gerlach, Ziemann and Wunsch",
+      "category": "Automotive"
+    },
+    {
+      "id": "5aad7147-f9ef-4a28-89ad-2e312b331ae3",
+      "date": "2024-05-14T22:13:55.906Z",
+      "amount": "342.02",
+      "merchant": "Pouros, Walter and Vandervort",
+      "category": "Jewelry"
+    },
+    {
+      "id": "8827a80d-a98c-4a9f-84bb-2cc11c3552aa",
+      "date": "2025-03-14T02:56:30.876Z",
+      "amount": "642.59",
+      "merchant": "Keebler Inc",
+      "category": "Sports"
+    },
+    {
+      "id": "0b4b9e8e-5bd8-4933-9532-f41aa73d8689",
+      "date": "2024-05-02T13:50:54.780Z",
+      "amount": "590.82",
+      "merchant": "Mertz - Batz",
+      "category": "Kids"
+    },
+    {
+      "id": "904dd147-567e-4303-931e-cedc1131b897",
+      "date": "2024-11-12T16:43:24.320Z",
+      "amount": "165.85",
+      "merchant": "Kiehn - Yundt",
+      "category": "Kids"
+    },
+    {
+      "id": "9b7d435e-6021-4f00-8ba9-95246edad3bc",
+      "date": "2025-06-19T17:35:49.148Z",
+      "amount": "486.43",
+      "merchant": "Conroy, Nikolaus and Heaney",
+      "category": "Beauty"
+    },
+    {
+      "id": "e5b145db-55f6-4f4f-b0b2-6f02fee983d7",
+      "date": "2024-10-02T21:33:36.993Z",
+      "amount": "556.54",
+      "merchant": "Lehner Inc",
+      "category": "Books"
+    },
+    {
+      "id": "88892905-af60-4da6-9e25-00908f9a8e0b",
+      "date": "2025-02-11T17:07:47.881Z",
+      "amount": "61.55",
+      "merchant": "Herzog, Rutherford and Miller",
+      "category": "Beauty"
+    },
+    {
+      "id": "bb08585a-af94-4b98-a720-eef8650759f7",
+      "date": "2024-04-04T03:10:56.732Z",
+      "amount": "929.61",
+      "merchant": "Ernser, Schneider and Grimes",
+      "category": "Books"
+    }
+  ]
+}
