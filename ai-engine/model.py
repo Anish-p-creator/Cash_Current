@@ -138,58 +138,48 @@ def forecast_days(num_days, last_row, feature_cols, processed_df, model):
         future_rows.append(future)
     return future_predictions
 
-# 30-day forecast
-future_predictions_30 = forecast_days(30, last_row, feature_cols, processed_df, model)
-print("\n--- 30-DAY SPENDING FORECAST ---")
-for day_num, prediction in enumerate(future_predictions_30):
-    print(f"Day {day_num + 1}: Predicted spending of ${prediction:.2f}")
-total_predicted_spending_30 = sum(future_predictions_30)
-print(f"\nTotal predicted spending for the next 30 days: ${total_predicted_spending_30:.2f}")
 
-# 6-month forecast
-future_predictions_180 = forecast_days(180, last_row, feature_cols, processed_df, model)
-print("\n--- 6-MONTH (180 DAYS) SPENDING FORECAST ---")
-print(f"Total predicted spending for the next 6 months: ${sum(future_predictions_180):.2f}")
+# API-compatible functions
+def get_forecasts():
+    return {
+        '30_day': forecast_days(30, last_row, feature_cols, processed_df, model),
+        '6_month': forecast_days(180, last_row, feature_cols, processed_df, model),
+        '12_month': forecast_days(365, last_row, feature_cols, processed_df, model)
+    }
 
-# 12-month forecast
-future_predictions_365 = forecast_days(365, last_row, feature_cols, processed_df, model)
-print("\n--- 12-MONTH (365 DAYS) SPENDING FORECAST ---")
-print(f"Total predicted spending for the next 12 months: ${sum(future_predictions_365):.2f}")
+def get_spending_insights():
+    insights = {}
+    if 'category' in expenses_df.columns:
+        # Calculate total and average spending per category
+        category_totals = expenses_df.groupby('category')['amount'].sum()
+        category_counts = expenses_df['category'].value_counts()
+        avg_per_category = category_totals / category_counts
+        overall_avg = expenses_df['amount'].mean()
 
-# --- Insights based on category spending ---
-if 'category' in expenses_df.columns:
-    print("\n--- SPENDING INSIGHTS ---")
-    # Calculate total and average spending per category
-    category_totals = expenses_df.groupby('category')['amount'].sum()
-    category_counts = expenses_df['category'].value_counts()
-    avg_per_category = category_totals / category_counts
-    overall_avg = expenses_df['amount'].mean()
+        # Top 3 categories by total spending
+        top_cats = category_totals.sort_values(ascending=False).head(3)
+        insights['top_categories'] = [
+            {'category': cat, 'total': float(total), 'avg_per_transaction': float(avg_per_category[cat])}
+            for cat, total in top_cats.items()
+        ]
 
-    # Top 3 categories by total spending
-    top_cats = category_totals.sort_values(ascending=False).head(3)
-    print("Top 3 spending categories:")
-    for cat, total in top_cats.items():
-        print(f"- {cat}: ${total:.2f} (avg per transaction: ${avg_per_category[cat]:.2f})")
+        # Bottom 3 categories by total spending
+        bottom_cats = category_totals.sort_values(ascending=True).head(3)
+        insights['bottom_categories'] = [
+            {'category': cat, 'total': float(total), 'avg_per_transaction': float(avg_per_category[cat])}
+            for cat, total in bottom_cats.items()
+        ]
 
-    # Bottom 3 categories by total spending
-    bottom_cats = category_totals.sort_values(ascending=True).head(3)
-    print("\nLowest 3 spending categories:")
-    for cat, total in bottom_cats.items():
-        print(f"- {cat}: ${total:.2f} (avg per transaction: ${avg_per_category[cat]:.2f})")
-
-    # Suggestions based on deviation from average
-    print("\nSuggestions:")
-    any_suggestion = False
-    for cat in category_totals.index:
-        if avg_per_category[cat] > overall_avg * 1.5:
-            print(f"Warning: Spending in '{cat}' is much higher than average. Try to set a monthly budget and track your expenses in this category.")
-            print(f"Tip: Review your recent purchases in '{cat}' and identify non-essential items to cut back.")
-            any_suggestion = True
-        elif avg_per_category[cat] > overall_avg * 1.2:
-            print(f"Consider reducing spending in '{cat}' (average per transaction: ${avg_per_category[cat]:.2f}). Try meal planning, price comparison, or limiting impulse buys.")
-            any_suggestion = True
-        elif avg_per_category[cat] < overall_avg * 0.8:
-            print(f"You could consider increasing investment in '{cat}' (average per transaction: ${avg_per_category[cat]:.2f}). If this is an important category, review your priorities.")
-            any_suggestion = True
-    if not any_suggestion:
-        print("Your spending is balanced across categories. Good job!")
+        # Suggestions based on deviation from average
+        suggestions = []
+        for cat in category_totals.index:
+            if avg_per_category[cat] > overall_avg * 1.5:
+                suggestions.append(f"Warning: Spending in '{cat}' is much higher than average. Try to set a monthly budget and track your expenses in this category. Tip: Review your recent purchases in '{cat}' and identify non-essential items to cut back.")
+            elif avg_per_category[cat] > overall_avg * 1.2:
+                suggestions.append(f"Consider reducing spending in '{cat}' (average per transaction: ${avg_per_category[cat]:.2f}). Try meal planning, price comparison, or limiting impulse buys.")
+            elif avg_per_category[cat] < overall_avg * 0.8:
+                suggestions.append(f"You could consider increasing investment in '{cat}' (average per transaction: ${avg_per_category[cat]:.2f}). If this is an important category, review your priorities.")
+        if not suggestions:
+            suggestions.append("Your spending is balanced across categories. Good job!")
+        insights['suggestions'] = suggestions
+    return insights
